@@ -1,0 +1,1333 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Contents"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ML-enthusiastic Earth Scientific Questions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fundamentals of ML and DL in Python",
+          "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-19T23:03:15Z",
+            "owner": "ageron",
+            "repo": "handson-ml",
+            "stars": 25607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stanford CS 229 ML Cheatsheets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-05-20T04:57:25Z",
+            "owner": "afshinea",
+            "repo": "stanford-cs-229-machine-learning",
+            "stars": 20085
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Artificial Intelligence for Earth System Science (AI4ESS) Summer School",
+          "description": "repo readinglist",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-06-10T17:21:10Z",
+            "owner": "NCAR",
+            "repo": "ai4ess-hackathon-2020",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RadiantEarth ML4EO Bootcamp 2021",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-11-17T20:56:49Z",
+            "owner": "radiantearth",
+            "repo": "ml4eo-bootcamp-2021",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":sunglasses::sparkling_heart: GeoAI with Python: A Practical Guide to Open-Source Geospatial AI",
+          "description": "Zenodo - Open-access book with 23 chapters of executable code for segmentation, detection, change detection, and foundation models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-20T17:28:19Z",
+            "owner": "giswqs",
+            "repo": "GeoAI-Book",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Summer School on High-Performance and Disruptive Computing in Remote Sensing - Scaling Machine Learning for Remote Sensing using Cloud Computing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-06-03T11:14:24Z",
+            "owner": "NASA-IMPACT",
+            "repo": "workshop_notebooks",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Courses"
+    },
+    {
+      "description": "Earth observation, geospatial, weather, and climate software only. Entries are sorted alphabetically by name. marks maintainer picks for this list (not a quality tier). For pretrained model weights, see Foundation Models. For general ML infrastructure, see RelatedAwesome.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":sunglasses: TorchGeo",
+          "description": "docs - PyTorch domain library with 100+ geospatial datasets, spatial samplers, multispectral transforms, and pretrained backbones",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T09:45:19Z",
+            "owner": "torchgeo",
+            "repo": "torchgeo",
+            "stars": 4142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "segment-geospatial (samgeo)",
+          "description": "docs - Segment Anything Model (SAM) and HQ-SAM for geospatial imagery segmentation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T20:37:42Z",
+            "owner": "opengeos",
+            "repo": "segment-geospatial",
+            "stars": 4108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":sunglasses: GeoAI",
+          "description": "docs - Unified Python framework for EO deep learning: segmentation, detection, change detection, and foundation model workflows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T03:04:17Z",
+            "owner": "opengeos",
+            "repo": "geoai",
+            "stars": 3268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eo-learn",
+          "description": "Earth observation processing framework for machine learning in Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-15T07:25:25Z",
+            "owner": "sentinel-hub",
+            "repo": "eo-learn",
+            "stars": 1243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":sunglasses: TerraTorch",
+          "description": "paper - Fine-tuning and benchmarking toolkit for geospatial foundation models; integrates with GEO-Bench-2 and Hugging Face weights",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T09:46:23Z",
+            "owner": "torchgeo",
+            "repo": "terratorch",
+            "stars": 843
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "torch-harmonics",
+          "description": "Differentiable signal processing on the sphere for geometric weather ML; BSD-3-Clause",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-13T09:59:10Z",
+            "owner": "NVIDIA",
+            "repo": "torch-harmonics",
+            "stars": 693
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WeatherBench 2",
+          "description": "docs - Open evaluation framework and leaderboard for data-driven global weather models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T21:36:12Z",
+            "owner": "google-research",
+            "repo": "weatherbench2",
+            "stars": 630
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ai-models",
+          "description": "Open-source CLI to run AI weather models (GraphCast, FourCastNet, Pangu-Weather) with ECMWF data pipelines",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T17:46:28Z",
+            "owner": "ecmwf-lab",
+            "repo": "ai-models",
+            "stars": 584
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SeisBench",
+          "description": "docs - Open toolbox for earthquake ML: phase picking, event detection, pretrained models, and benchmark datasets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-28T12:22:17Z",
+            "owner": "seisbench",
+            "repo": "seisbench",
+            "stars": 412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Makani",
+          "description": "Scalable training framework for ML weather models (FourCastNet 3); Apache 2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T12:38:28Z",
+            "owner": "NVIDIA",
+            "repo": "makani",
+            "stars": 398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ClimateLearn",
+          "description": "paper - PyTorch library for weather forecasting and climate downscaling benchmarks (ERA5, CMIP6)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-03-16T00:32:13Z",
+            "owner": "aditya-grover",
+            "repo": "climate-learn",
+            "stars": 354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xarray-Beam",
+          "description": "Python library for building Apache Beam pipelines with Xarray datasets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T08:40:04Z",
+            "owner": "google",
+            "repo": "xarray-beam",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EarthML",
+          "description": "website - Tools for working with machine learning in earth science",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-03-18T14:47:57Z",
+            "owner": "holoviz-topics",
+            "repo": "EarthML",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microsoft AI for Earth API Platform",
+          "description": "Distributed API hosting for long-running geospatial ML model inference on Azure/Kubernetes",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2022-08-01T20:32:19Z",
+            "owner": "microsoft",
+            "repo": "AIforEarth-API-Platform",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GEO-Bench-2",
+          "description": "leaderboard paper - Reproducible benchmark for geospatial foundation models across 19 permissively licensed datasets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T18:14:38Z",
+            "owner": "The-AI-Alliance",
+            "repo": "GEO-Bench-2",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":sunglasses: pygeoweaver",
+          "description": "Python library for AI & geospatial workflow management, FAIRness, tangibility and productivity improvement",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-08T20:26:31Z",
+            "owner": "ESIPFed",
+            "repo": "pygeoweaver",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GRIME2",
+          "description": "website - Camera-based water level measurement from ground-based time-lapse imagery",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-11-11T20:20:46Z",
+            "owner": "gaugecam-dev",
+            "repo": "GRIME2",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GRIME AI",
+          "description": "website - Ecohydrological workflow suite for ground-based time-lapse imagery, from acquisition through ML applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T16:37:52Z",
+            "owner": "GRIME-Lab",
+            "repo": "GRIME-AI",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "Pretrained model weights and primary model repositories for Earth observation, weather, and climate. Sorted alphabetically within each group. For fine-tuning toolkits and benchmarks, see Tools. For task-specific application code and vision-language models, see Code.",
+      "items": [],
+      "title": "Foundation Models"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":sunglasses::sparkling_heart: Clay",
+          "description": "docs weights - Sensor-agnostic MAE foundation model (v1.5) for EO embeddings across Sentinel-2, Landsat, Sentinel-1, and custom sensors; Apache 2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-11T05:02:56Z",
+            "owner": "Clay-foundation",
+            "repo": "model",
+            "stars": 605
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TerraMind",
+          "description": "weights paper - Any-to-any generative multimodal EO foundation model (IBM/ESA Φ-lab); fine-tune via TerraTorch",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-10T00:57:43Z",
+            "owner": "IBM",
+            "repo": "terramind",
+            "stars": 298
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":sunglasses::sparkling_heart: Prithvi-EO-2.0",
+          "description": "weights paper - Multi-temporal ViT foundation model (300M/600M) trained on 4.2M global HLS time series at 30 m; fine-tune via TerraTorch",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T11:11:23Z",
+            "owner": "NASA-IMPACT",
+            "repo": "Prithvi-EO-2.0",
+            "stars": 292
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DOFA",
+          "description": "paper - Dynamic One-For-All multimodal foundation model with wavelength-conditioned hypernetworks for cross-sensor generalization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-22T10:46:18Z",
+            "owner": "zhu-xlab",
+            "repo": "DOFA",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Copernicus-FM",
+          "description": "paper - Unified Copernicus foundation model across Sentinel missions with Copernicus-Pretrain and Copernicus-Bench",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-10-02T15:44:30Z",
+            "owner": "zhu-xlab",
+            "repo": "Copernicus-FM",
+            "stars": 147
+          }
+        }
+      ],
+      "title": "Earth Observation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GraphCast / GenCast",
+          "description": "GraphCast paper GenCast paper - GNN-based medium-range global weather forecasting and diffusion ensemble forecasting; Apache 2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T12:29:00Z",
+            "owner": "google-deepmind",
+            "repo": "weathernext",
+            "stars": 7482
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NeuralGCM",
+          "description": "dycore paper - Differentiable hybrid general circulation model combining physics-based dynamics with learned components; Apache 2.0 code, CC BY-SA 4.0 weights",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-14T16:05:06Z",
+            "owner": "neuralgcm",
+            "repo": "neuralgcm",
+            "stars": 1006
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aurora",
+          "description": "docs paper - 1.3B-parameter atmospheric foundation model for weather, air pollution, and ocean waves",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T19:27:52Z",
+            "owner": "microsoft",
+            "repo": "aurora",
+            "stars": 997
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":sunglasses::sparkling_heart: Prithvi-WxC",
+          "description": "weights paper - 2.3B-parameter weather/climate foundation model on MERRA-2 for forecasting, downscaling, and parameterization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T13:14:14Z",
+            "owner": "NASA-IMPACT",
+            "repo": "Prithvi-WxC",
+            "stars": 200
+          }
+        }
+      ],
+      "title": "Weather and Climate"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AI Cheatsheets",
+          "description": "Essential Cheat Sheets for deep learning and machine learning engineers. It contains a lot of useful tutorials to learn awesome tricks on AI engineering",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-10-19T12:33:06Z",
+            "owner": "kailashahirwar",
+            "repo": "cheatsheets-ai",
+            "stars": 15426
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Machine Learning Tutorials (general, not Earth science specific)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-10T18:45:47Z",
+            "owner": "ethen8181",
+            "repo": "machine-learning",
+            "stars": 3493
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pixel-level land cover classification",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-07-25T03:53:29Z",
+            "owner": "Azure",
+            "repo": "pixel_level_land_classification",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Machine Learning for Development",
+          "description": "Machine Learning for Development: A method to Learn and Identify Earth Features from Satellite Images,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-08-10T20:26:09Z",
+            "owner": "worldbank",
+            "repo": "ml4dev",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":sunglasses::sparkling_heart: GeoAI with Python Book Code",
+          "description": "Executable notebooks for seven core GeoAI tasks and foundation model workflows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-20T17:28:19Z",
+            "owner": "giswqs",
+            "repo": "GeoAI-Book",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EO-learn-workshop",
+          "description": "EO-learn-workshop: Bridging Earth Observation data and Machine Learning in Python,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-08-22T16:18:13Z",
+            "owner": "sentinel-hub",
+            "repo": "eo-learn-workshop",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":sunglasses::sparkling_heart: Artificial Intelligence in Earth science Book Materials",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-07-25T14:19:30Z",
+            "owner": "earth-artificial-intelligence",
+            "repo": "earth_ai_book_materials",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Planet Snow Mapping",
+          "description": "Introduction to using Planet imagery to map snow cover",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-12-03T20:33:39Z",
+            "owner": "acannistra",
+            "repo": "planet-snowcover",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ELSI-DL-Bootcamp",
+          "description": "Intro to Machine Learning and Deep Learning for Earth-Life Sciences,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-06-29T08:35:30Z",
+            "owner": "Machine-Learning-Tokyo",
+            "repo": "ELSI-DL-Bootcamp",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UW WaterhackerWeek",
+          "description": "Introduction to Machine Learning on Landslide Data and Scikit-learn from UW WaterhackerWeek,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-11-24T00:02:43Z",
+            "owner": "waterhackweek",
+            "repo": "whw2020_machine_learning",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":sunglasses::sparkling_heart: RadiantEarth MLhub Tutorials",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Tutorials"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Satellite Imagery Datasets",
+          "description": "Awesome Satellite Imagery Datasets: A curated list of deep learning training datasets,",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2022-07-14T18:02:46Z",
+            "owner": "chrieke",
+            "repo": "awesome-satellite-imagery-datasets",
+            "stars": 3915
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WeatherBench 2 ERA5 Zarr",
+          "description": "Open cloud-optimized ERA5 and baseline forecast data for ML weather model training and evaluation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T21:36:12Z",
+            "owner": "google-research",
+            "repo": "weatherbench2",
+            "stars": 630
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EuroSAT Dataset",
+          "description": "EuroSAT Dataset: Land Use and Land Cover Classification with Sentinel-2,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-03-09T11:53:50Z",
+            "owner": "phelber",
+            "repo": "EuroSAT",
+            "stars": 567
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "STanford EArthquake Dataset (STEAD)",
+          "description": "A Global Data Set of Seismic Signals for AI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-07T23:46:55Z",
+            "owner": "smousavi05",
+            "repo": "STEAD",
+            "stars": 402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Copernicus-Embed-025deg",
+          "description": "Global 0.25° embedding map integrating multi-source Sentinel observations (released with Copernicus-FM)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-10-02T15:44:30Z",
+            "owner": "zhu-xlab",
+            "repo": "Copernicus-FM",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GEO-Bench-2 Datasets",
+          "description": "19 permissively licensed benchmark datasets for geospatial foundation model evaluation on Hugging Face",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T18:14:38Z",
+            "owner": "The-AI-Alliance",
+            "repo": "GEO-Bench-2",
+            "stars": 30
+          }
+        }
+      ],
+      "title": "Training Data"
+    },
+    {
+      "description": "Task-specific implementations and Earth-facing applications. Foundation model weights live under Foundation Models; fine-tuning toolkits under Tools.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GeoChat",
+          "description": "paper - Grounded large vision-language model for remote sensing QA, captioning, and referring detection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-28T12:05:13Z",
+            "owner": "mbzuai-oryx",
+            "repo": "GeoChat",
+            "stars": 738
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EQTransformer",
+          "description": "An AI-Based Earthquake Signal Detector and Phase Picker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-13T18:59:21Z",
+            "owner": "smousavi05",
+            "repo": "EQTransformer",
+            "stars": 415
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TEOChat",
+          "description": "paper - Temporal vision-language assistant for change detection, damage assessment, and EO dialogue",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-01T21:50:17Z",
+            "owner": "ermongroup",
+            "repo": "TEOChat",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EarthDial",
+          "description": "paper - Multi-spectral, multi-temporal vision-language model for EO dialogue across 44 downstream datasets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-20T09:44:34Z",
+            "owner": "hiyamdebary",
+            "repo": "EarthDial",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MTLCC",
+          "description": "Multitemporal Land Cover Classification Network (ConvLSTM, ConvGRU),",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-11-19T09:12:43Z",
+            "owner": "MarcCoru",
+            "repo": "MTLCC",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Continuous Change Detection and Classification",
+          "description": "Continuous Change Detection and Classification (CCDC) of land cover using all available Landsat data,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2024-10-30T02:30:36Z",
+            "owner": "GERSL",
+            "repo": "CCDC",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Object-based Classification on Earth Engine",
+          "description": "Object-based land cover classification with Feature Extraction and Feature Selection for Google Earth Engine (GEE),",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2024-10-30T02:30:36Z",
+            "owner": "GERSL",
+            "repo": "CCDC",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BassNet",
+          "description": ",paper-preprint - Deep Learning for Land-cover Classification in Hyperspectral Images,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2019-01-27T00:13:39Z",
+            "owner": "manila95",
+            "repo": "BASS-Net",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Landsat Time Series Analysis for Multi-Temporal Land Cover Classification",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-08T07:56:56Z",
+            "owner": "agr-ayush",
+            "repo": "Landsat-Time-Series-Analysis-for-Multi-Temporal-Land-Cover-Classification",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":sunglasses::sparkling_heart: Earth System Emulator (ESEm)",
+          "description": "A tool for emulating geophysical datasets including (but not limited to) Earth System Models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-10T17:14:08Z",
+            "owner": "duncanwp",
+            "repo": "ESEm",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EarthEngine-Deep-Learning",
+          "description": "Deep Learning on Google Earth Engine,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-04-21T19:30:41Z",
+            "owner": "ucalyptus",
+            "repo": "EarthEngine-Deep-Learning",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Earth Lens",
+          "description": "Earth Lens, a Microsoft Garage project is an iOS iPad application that helps people and organizations quickly identify and classify objects in aerial imagery through the power of machine learning.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2019-02-27T18:50:17Z",
+            "owner": "microsoft",
+            "repo": "Earth-Lens",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tropical Cyclone Windspeed Estimator",
+          "description": "Winning solutions for Tropical Cyclone Wind Speed Prediction Competition",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-07T18:42:00Z",
+            "owner": "drivendataorg",
+            "repo": "wind-dependent-variables",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":sunglasses::sparkling_heart: EmissionAI",
+          "description": "Microsoft AI for Earth Project: AI Monitoring Coal-fired Power Plant Emission from Space",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-09-16T14:51:08Z",
+            "owner": "ZihengSun",
+            "repo": "EmissionAI",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Infernis",
+          "description": "Open-source ML-powered wildfire risk prediction engine for British Columbia. XGBoost + CNN trained on 10 fire seasons (2015-2024) from 21 open government and scientific data sources. Provides a free REST API with daily predictions at 5km resolution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T00:17:50Z",
+            "owner": "argonBIsystems",
+            "repo": "infernis",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Code"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Machine Learning",
+          "description": "A curated list of awesome Machine Learning frameworks, libraries and software",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T21:49:59Z",
+            "owner": "josephmisiti",
+            "repo": "awesome-machine-learning",
+            "stars": 74015
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Workflow Engines",
+          "description": "A curated list of awesome open source workflow engines",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-06T08:20:52Z",
+            "owner": "meirwah",
+            "repo": "awesome-workflow-engines",
+            "stars": 7911
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Pipeline",
+          "description": "A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-04T07:45:32Z",
+            "owner": "pditommaso",
+            "repo": "awesome-pipeline",
+            "stars": 6618
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Satellite Imagery Datasets",
+          "description": "List of aerial and satellite imagery datasets with annotations for computer vision and deep learning",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2022-07-14T18:02:46Z",
+            "owner": "chrieke",
+            "repo": "awesome-satellite-imagery-datasets",
+            "stars": 3915
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Open-Geoscience",
+          "description": "A list is curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome. In accordance with the awesome manifesto, we add awesome repositories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-26T11:55:08Z",
+            "owner": "softwareunderground",
+            "repo": "awesome-open-geoscience",
+            "stars": 1812
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Open Climate Science",
+          "description": "Awesome list for atmospheric, ocean, climate, and hydrologic science",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-11-12T14:32:13Z",
+            "owner": "pangeo-data",
+            "repo": "awesome-open-climate-science",
+            "stars": 594
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Spatial",
+          "description": "Awesome list for geospatial, not specific to geoscience but significant overlap",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-01-04T14:42:48Z",
+            "owner": "RoboDonut",
+            "repo": "awesome-spatial",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-weather-models",
+          "description": "Catalogue of AI-based weather forecasting models with open-source and open-weights status",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-10T18:14:25Z",
+            "owner": "rebase-energy",
+            "repo": "awesome-weather-models",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Coastal",
+          "description": "Awesome list for coastal engineers and scientists",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-06T11:45:28Z",
+            "owner": "chrisleaman",
+            "repo": "awesome-coastal",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-AI-for-Atmosphere-and-Ocean",
+          "description": "Research papers on AI for atmospheric science and oceanography",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-10-04T09:07:57Z",
+            "owner": "XiongWeiTHU",
+            "repo": "Awesome-AI-for-Atmosphere-and-Ocean",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-WeatherAI",
+          "description": "Papers, datasets, and open model implementations for AI weather and climate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-03-01T14:00:42Z",
+            "owner": "HeQinWill",
+            "repo": "awesome-WeatherAI",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome_AI4Earth",
+          "description": "Deep learning for Earth system science, especially data-driven weather prediction",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-27T10:56:58Z",
+            "owner": "taohan10200",
+            "repo": "Awesome_AI4Earth",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "RelatedAwesome"
+    },
+    {
+      "description": "These are useful in Earth AI workflows but are not Earth-specific; we list them here rather than in Tools.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MindsDB",
+          "description": "Explainable AutoML framework on PyTorch",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2026-08-12T06:21:30Z",
+            "owner": "mindsdb",
+            "repo": "mindshub",
+            "stars": 39549
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Netron",
+          "description": "Neural network and ONNX/Keras/TFLite model visualizer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T16:54:00Z",
+            "owner": "lutzroeder",
+            "repo": "netron",
+            "stars": 33342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MLflow",
+          "description": "Machine learning lifecycle platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T10:21:41Z",
+            "owner": "mlflow",
+            "repo": "mlflow",
+            "stars": 27498
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dopamine",
+          "description": "Research framework for reinforcement learning prototyping",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-24T18:11:40Z",
+            "owner": "google",
+            "repo": "dopamine",
+            "stars": 10893
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OneFlow",
+          "description": "Performance-centered open-source deep learning framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-12-04T01:29:28Z",
+            "owner": "Oneflow-Inc",
+            "repo": "oneflow",
+            "stars": 9423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BentoML",
+          "description": "Open-source framework for high-performance ML model serving",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T17:00:21Z",
+            "owner": "bentoml",
+            "repo": "BentoML",
+            "stars": 8784
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flashlight",
+          "description": "C++ standalone library for machine learning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-22T00:07:38Z",
+            "owner": "flashlight",
+            "repo": "flashlight",
+            "stars": 5465
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SynapseML",
+          "description": "Scalable ML pipelines on Apache Spark",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-13T09:32:08Z",
+            "owner": "microsoft",
+            "repo": "SynapseML",
+            "stars": 5236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Snips NLU",
+          "description": "Natural language understanding for structured extraction from text",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-22T16:10:15Z",
+            "owner": "snipsco",
+            "repo": "snips-nlu",
+            "stars": 3972
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polyaxon",
+          "description": "ML platform for Kubernetes training and monitoring",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MDX",
+            "last_commit": "2026-08-11T09:43:20Z",
+            "owner": "polyaxon",
+            "repo": "polyaxon",
+            "stars": 3718
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TensorFlow Hub",
+          "description": "Repository of reusable TensorFlow SavedModels",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-17T12:09:41Z",
+            "owner": "tensorflow",
+            "repo": "hub",
+            "stars": 3524
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ml.js",
+          "description": "Machine learning tools in JavaScript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-21T07:02:43Z",
+            "owner": "mljs",
+            "repo": "ml",
+            "stars": 2715
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TransmogrifAI",
+          "description": "AutoML library on Apache Spark (Scala)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-06-02T18:03:07Z",
+            "owner": "salesforce",
+            "repo": "TransmogrifAI",
+            "stars": 2277
+          }
+        }
+      ],
+      "title": "General ML infrastructure (companion tools)"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T10:21:41.788Z",
+    "original_repository": "ESIPFed/Awesome-Earth-Artificial-Intelligence",
+    "original_repository_sha": "5d083e475e5aee531407c48e95fa7103662071aa",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Earth-Artificial-Intelligence",
+    "enhanced_repository_description": null,
+    "title": "Awesome-Earth-Artificial-Intelligence with stars"
+  }
+}
