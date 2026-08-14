@@ -24,7 +24,7 @@
             "last_commit": "2026-05-19T23:03:15Z",
             "owner": "ageron",
             "repo": "handson-ml",
-            "stars": 25607
+            "stars": 25606
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2020-05-20T04:57:25Z",
             "owner": "afshinea",
             "repo": "stanford-cs-229-machine-learning",
-            "stars": 20085
+            "stars": 20090
           }
         },
         {
@@ -111,10 +111,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T09:45:19Z",
+            "last_commit": "2026-08-13T21:29:54Z",
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4142
+            "stars": 4143
           }
         },
         {
@@ -142,7 +142,7 @@
             "last_commit": "2026-08-10T03:04:17Z",
             "owner": "opengeos",
             "repo": "geoai",
-            "stars": 3268
+            "stars": 3273
           }
         },
         {
@@ -167,7 +167,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T09:46:23Z",
+            "last_commit": "2026-08-14T08:50:51Z",
             "owner": "torchgeo",
             "repo": "terratorch",
             "stars": 843
@@ -181,7 +181,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-13T09:59:10Z",
+            "last_commit": "2026-08-14T09:47:15Z",
             "owner": "NVIDIA",
             "repo": "torch-harmonics",
             "stars": 693
@@ -226,7 +226,7 @@
             "last_commit": "2026-07-28T12:22:17Z",
             "owner": "seisbench",
             "repo": "seisbench",
-            "stars": 412
+            "stars": 413
           }
         },
         {
@@ -377,7 +377,7 @@
             "last_commit": "2026-05-11T05:02:56Z",
             "owner": "Clay-foundation",
             "repo": "model",
-            "stars": 605
+            "stars": 607
           }
         },
         {
@@ -391,7 +391,7 @@
             "last_commit": "2026-08-10T00:57:43Z",
             "owner": "IBM",
             "repo": "terramind",
-            "stars": 298
+            "stars": 299
           }
         },
         {
@@ -453,7 +453,7 @@
             "last_commit": "2026-08-11T12:29:00Z",
             "owner": "google-deepmind",
             "repo": "weathernext",
-            "stars": 7482
+            "stars": 7488
           }
         },
         {
@@ -529,7 +529,7 @@
             "last_commit": "2026-07-10T18:45:47Z",
             "owner": "ethen8181",
             "repo": "machine-learning",
-            "stars": 3493
+            "stars": 3494
           }
         },
         {
@@ -757,7 +757,7 @@
             "last_commit": "2024-11-28T12:05:13Z",
             "owner": "mbzuai-oryx",
             "repo": "GeoChat",
-            "stars": 738
+            "stars": 739
           }
         },
         {
@@ -973,7 +973,7 @@
             "last_commit": "2026-08-11T21:49:59Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74015
+            "stars": 74029
           }
         },
         {
@@ -1001,7 +1001,7 @@
             "last_commit": "2026-08-04T07:45:32Z",
             "owner": "pditommaso",
             "repo": "awesome-pipeline",
-            "stars": 6618
+            "stars": 6619
           }
         },
         {
@@ -1099,7 +1099,7 @@
             "last_commit": "2023-10-04T09:07:57Z",
             "owner": "XiongWeiTHU",
             "repo": "Awesome-AI-for-Atmosphere-and-Ocean",
-            "stars": 39
+            "stars": 40
           }
         },
         {
@@ -1144,10 +1144,10 @@
           "repo_info": {
             "archived": false,
             "language": "Makefile",
-            "last_commit": "2026-08-12T06:21:30Z",
+            "last_commit": "2026-08-13T21:48:08Z",
             "owner": "mindsdb",
             "repo": "mindshub",
-            "stars": 39549
+            "stars": 39566
           }
         },
         {
@@ -1158,10 +1158,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T16:54:00Z",
+            "last_commit": "2026-08-14T00:15:44Z",
             "owner": "lutzroeder",
             "repo": "netron",
-            "stars": 33342
+            "stars": 33349
           }
         },
         {
@@ -1172,10 +1172,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T10:21:41Z",
+            "last_commit": "2026-08-14T09:56:20Z",
             "owner": "mlflow",
             "repo": "mlflow",
-            "stars": 27498
+            "stars": 27512
           }
         },
         {
@@ -1189,7 +1189,7 @@
             "last_commit": "2026-03-24T18:11:40Z",
             "owner": "google",
             "repo": "dopamine",
-            "stars": 10893
+            "stars": 10895
           }
         },
         {
@@ -1203,7 +1203,7 @@
             "last_commit": "2025-12-04T01:29:28Z",
             "owner": "Oneflow-Inc",
             "repo": "oneflow",
-            "stars": 9423
+            "stars": 9424
           }
         },
         {
@@ -1217,7 +1217,7 @@
             "last_commit": "2026-08-03T17:00:21Z",
             "owner": "bentoml",
             "repo": "BentoML",
-            "stars": 8784
+            "stars": 8787
           }
         },
         {
@@ -1242,7 +1242,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-13T09:32:08Z",
+            "last_commit": "2026-08-14T07:34:04Z",
             "owner": "microsoft",
             "repo": "SynapseML",
             "stars": 5236
@@ -1323,7 +1323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T10:21:41.788Z",
+    "last_updated": "2026-08-14T10:16:20.677Z",
     "original_repository": "ESIPFed/Awesome-Earth-Artificial-Intelligence",
     "original_repository_sha": "5d083e475e5aee531407c48e95fa7103662071aa",
     "enhanced_repository": "enhansome/enhansome-Awesome-Earth-Artificial-Intelligence",
