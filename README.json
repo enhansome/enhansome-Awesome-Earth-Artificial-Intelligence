@@ -111,7 +111,7 @@
             "last_commit": "2026-08-19T08:53:22Z",
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4149
+            "stars": 4152
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-17T21:03:17Z",
             "owner": "opengeos",
             "repo": "segment-geospatial",
-            "stars": 4113
+            "stars": 4114
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-17T03:06:14Z",
             "owner": "opengeos",
             "repo": "geoai",
-            "stars": 3299
+            "stars": 3300
           }
         },
         {
@@ -471,7 +471,7 @@
                 "last_commit": "2026-08-11T12:29:00Z",
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7556
+                "stars": 7557
               }
             },
             {
@@ -1025,7 +1025,7 @@
             "last_commit": "2026-08-11T21:49:59Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74068
+            "stars": 74070
           }
         },
         {
@@ -1222,7 +1222,7 @@
                 "last_commit": "2026-08-18T12:11:10Z",
                 "owner": "lutzroeder",
                 "repo": "netron",
-                "stars": 33366
+                "stars": 33367
               }
             },
             {
@@ -1237,7 +1237,7 @@
                 "last_commit": "2026-08-19T05:18:06Z",
                 "owner": "mlflow",
                 "repo": "mlflow",
-                "stars": 27573
+                "stars": 27577
               }
             },
             {
@@ -1309,7 +1309,7 @@
                 "archived": false,
                 "id": 93381875,
                 "language": "Scala",
-                "last_commit": "2026-08-19T09:41:17Z",
+                "last_commit": "2026-08-19T11:53:59Z",
                 "owner": "microsoft",
                 "repo": "SynapseML",
                 "stars": 5238
@@ -1400,8 +1400,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:48:50.991Z",
+    "last_updated": "2026-08-19T12:08:36.969Z",
     "original_repository": "ESIPFed/Awesome-Earth-Artificial-Intelligence",
+    "original_repository_id": 287369884,
     "original_repository_sha": "5d083e475e5aee531407c48e95fa7103662071aa",
     "enhanced_repository": "enhansome/enhansome-Awesome-Earth-Artificial-Intelligence",
     "enhanced_repository_description": null,
