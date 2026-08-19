@@ -1,17 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Contents"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "ML-enthusiastic Earth Scientific Questions"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -20,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51863547,
             "language": "Jupyter Notebook",
             "last_commit": "2026-05-19T23:03:15Z",
             "owner": "ageron",
             "repo": "handson-ml",
-            "stars": 25594
+            "stars": 25596
           }
         },
         {
@@ -34,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143568533,
             "language": null,
             "last_commit": "2020-05-20T04:57:25Z",
             "owner": "afshinea",
             "repo": "stanford-cs-229-machine-learning",
-            "stars": 20123
+            "stars": 20128
           }
         },
         {
@@ -48,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 260263542,
             "language": "Jupyter Notebook",
             "last_commit": "2021-06-10T17:21:10Z",
             "owner": "NCAR",
@@ -62,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 356345720,
             "language": "Jupyter Notebook",
             "last_commit": "2021-11-17T20:56:49Z",
             "owner": "radiantearth",
@@ -76,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1100969729,
             "language": "Jupyter Notebook",
             "last_commit": "2026-07-20T17:28:19Z",
             "owner": "giswqs",
             "repo": "GeoAI-Book",
-            "stars": 44
+            "stars": 45
           }
         },
         {
@@ -90,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 344157817,
             "language": "Jupyter Notebook",
             "last_commit": "2021-06-03T11:14:24Z",
             "owner": "NASA-IMPACT",
@@ -110,8 +106,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 369428935,
             "language": "Python",
-            "last_commit": "2026-08-18T09:29:14Z",
+            "last_commit": "2026-08-19T08:53:22Z",
             "owner": "torchgeo",
             "repo": "torchgeo",
             "stars": 4149
@@ -124,11 +121,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 629789089,
             "language": "Python",
             "last_commit": "2026-08-17T21:03:17Z",
             "owner": "opengeos",
             "repo": "segment-geospatial",
-            "stars": 4112
+            "stars": 4113
           }
         },
         {
@@ -138,11 +136,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 677526746,
             "language": "Python",
             "last_commit": "2026-08-17T03:06:14Z",
             "owner": "opengeos",
             "repo": "geoai",
-            "stars": 3290
+            "stars": 3299
           }
         },
         {
@@ -152,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135559956,
             "language": "Python",
             "last_commit": "2026-01-15T07:25:25Z",
             "owner": "sentinel-hub",
@@ -166,8 +166,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 801016442,
             "language": "Python",
-            "last_commit": "2026-08-18T08:13:18Z",
+            "last_commit": "2026-08-18T19:10:32Z",
             "owner": "torchgeo",
             "repo": "terratorch",
             "stars": 845
@@ -180,11 +181,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 587447959,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-18T07:04:22Z",
+            "last_commit": "2026-08-19T08:14:41Z",
             "owner": "NVIDIA",
             "repo": "torch-harmonics",
-            "stars": 695
+            "stars": 696
           }
         },
         {
@@ -194,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 605966592,
             "language": "Python",
             "last_commit": "2026-08-01T21:36:12Z",
             "owner": "google-research",
@@ -208,11 +211,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 639741520,
             "language": "Python",
             "last_commit": "2026-08-06T17:46:28Z",
             "owner": "ecmwf-lab",
             "repo": "ai-models",
-            "stars": 583
+            "stars": 584
           }
         },
         {
@@ -222,8 +226,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 312332587,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-07-28T12:22:17Z",
+            "last_commit": "2026-08-19T09:17:43Z",
             "owner": "seisbench",
             "repo": "seisbench",
             "stars": 413
@@ -236,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 696782184,
             "language": "Python",
             "last_commit": "2026-08-11T12:38:28Z",
             "owner": "NVIDIA",
@@ -250,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 533651942,
             "language": "Jupyter Notebook",
             "last_commit": "2024-03-16T00:32:13Z",
             "owner": "aditya-grover",
@@ -264,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 366509361,
             "language": "Python",
             "last_commit": "2026-08-06T08:40:04Z",
             "owner": "google",
@@ -278,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 130367373,
             "language": "Python",
             "last_commit": "2024-03-18T14:47:57Z",
             "owner": "holoviz-topics",
@@ -292,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 177653792,
             "language": "Shell",
             "last_commit": "2022-08-01T20:32:19Z",
             "owner": "microsoft",
@@ -306,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 796883566,
             "language": "Python",
             "last_commit": "2026-07-20T18:14:38Z",
             "owner": "The-AI-Alliance",
@@ -320,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 619011541,
             "language": "Python",
             "last_commit": "2026-06-08T20:26:31Z",
             "owner": "ESIPFed",
@@ -334,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 336839288,
             "language": "C++",
             "last_commit": "2025-11-11T20:20:46Z",
             "owner": "gaugecam-dev",
@@ -348,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 917968665,
             "language": "Python",
             "last_commit": "2026-08-11T16:37:52Z",
             "owner": "GRIME-Lab",
@@ -360,149 +374,161 @@
     },
     {
       "description": "Pretrained model weights and primary model repositories for Earth observation, weather, and climate. Sorted alphabetically within each group. For fine-tuning toolkits and benchmarks, see Tools. For task-specific application code and vision-language models, see Code.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":sunglasses::sparkling_heart: Clay",
+              "description": "docs weights - Sensor-agnostic MAE foundation model (v1.5) for EO embeddings across Sentinel-2, Landsat, Sentinel-1, and custom sensors; Apache 2.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 698210830,
+                "language": "Python",
+                "last_commit": "2026-05-11T05:02:56Z",
+                "owner": "Clay-foundation",
+                "repo": "model",
+                "stars": 608
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TerraMind",
+              "description": "weights paper - Any-to-any generative multimodal EO foundation model (IBM/ESA Φ-lab); fine-tune via TerraTorch",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 969483295,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-17T00:38:53Z",
+                "owner": "IBM",
+                "repo": "terramind",
+                "stars": 304
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":sunglasses::sparkling_heart: Prithvi-EO-2.0",
+              "description": "weights paper - Multi-temporal ViT foundation model (300M/600M) trained on 4.2M global HLS time series at 30 m; fine-tune via TerraTorch",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 892392769,
+                "language": null,
+                "last_commit": "2025-02-13T11:11:23Z",
+                "owner": "NASA-IMPACT",
+                "repo": "Prithvi-EO-2.0",
+                "stars": 291
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DOFA",
+              "description": "paper - Dynamic One-For-All multimodal foundation model with wavelength-conditioned hypernetworks for cross-sensor generalization",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 775866179,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-07-22T10:46:18Z",
+                "owner": "zhu-xlab",
+                "repo": "DOFA",
+                "stars": 204
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Copernicus-FM",
+              "description": "paper - Unified Copernicus foundation model across Sentinel missions with Copernicus-Pretrain and Copernicus-Bench",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 948371619,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-10-02T15:44:30Z",
+                "owner": "zhu-xlab",
+                "repo": "Copernicus-FM",
+                "stars": 147
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Earth Observation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GraphCast / GenCast",
+              "description": "GraphCast paper GenCast paper - GNN-based medium-range global weather forecasting and diffusion ensemble forecasting; Apache 2.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 666376652,
+                "language": "Python",
+                "last_commit": "2026-08-11T12:29:00Z",
+                "owner": "google-deepmind",
+                "repo": "weathernext",
+                "stars": 7556
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NeuralGCM",
+              "description": "dycore paper - Differentiable hybrid general circulation model combining physics-based dynamics with learned components; Apache 2.0 code, CC BY-SA 4.0 weights",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 753181435,
+                "language": "Python",
+                "last_commit": "2026-07-14T16:05:06Z",
+                "owner": "neuralgcm",
+                "repo": "neuralgcm",
+                "stars": 1006
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Aurora",
+              "description": "docs paper - 1.3B-parameter atmospheric foundation model for weather, air pollution, and ocean waves",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 828987595,
+                "language": "Python",
+                "last_commit": "2026-08-04T19:27:52Z",
+                "owner": "microsoft",
+                "repo": "aurora",
+                "stars": 1004
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":sunglasses::sparkling_heart: Prithvi-WxC",
+              "description": "weights paper - 2.3B-parameter weather/climate foundation model on MERRA-2 for forecasting, downscaling, and parameterization",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 849978617,
+                "language": "Python",
+                "last_commit": "2026-02-05T13:14:14Z",
+                "owner": "NASA-IMPACT",
+                "repo": "Prithvi-WxC",
+                "stars": 200
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Weather and Climate"
+        }
+      ],
       "title": "Foundation Models"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": ":sunglasses::sparkling_heart: Clay",
-          "description": "docs weights - Sensor-agnostic MAE foundation model (v1.5) for EO embeddings across Sentinel-2, Landsat, Sentinel-1, and custom sensors; Apache 2.0",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-11T05:02:56Z",
-            "owner": "Clay-foundation",
-            "repo": "model",
-            "stars": 608
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TerraMind",
-          "description": "weights paper - Any-to-any generative multimodal EO foundation model (IBM/ESA Φ-lab); fine-tune via TerraTorch",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-08-17T00:38:53Z",
-            "owner": "IBM",
-            "repo": "terramind",
-            "stars": 301
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":sunglasses::sparkling_heart: Prithvi-EO-2.0",
-          "description": "weights paper - Multi-temporal ViT foundation model (300M/600M) trained on 4.2M global HLS time series at 30 m; fine-tune via TerraTorch",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-02-13T11:11:23Z",
-            "owner": "NASA-IMPACT",
-            "repo": "Prithvi-EO-2.0",
-            "stars": 291
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DOFA",
-          "description": "paper - Dynamic One-For-All multimodal foundation model with wavelength-conditioned hypernetworks for cross-sensor generalization",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-07-22T10:46:18Z",
-            "owner": "zhu-xlab",
-            "repo": "DOFA",
-            "stars": 204
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Copernicus-FM",
-          "description": "paper - Unified Copernicus foundation model across Sentinel missions with Copernicus-Pretrain and Copernicus-Bench",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2025-10-02T15:44:30Z",
-            "owner": "zhu-xlab",
-            "repo": "Copernicus-FM",
-            "stars": 147
-          }
-        }
-      ],
-      "title": "Earth Observation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "GraphCast / GenCast",
-          "description": "GraphCast paper GenCast paper - GNN-based medium-range global weather forecasting and diffusion ensemble forecasting; Apache 2.0",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-11T12:29:00Z",
-            "owner": "google-deepmind",
-            "repo": "weathernext",
-            "stars": 7542
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NeuralGCM",
-          "description": "dycore paper - Differentiable hybrid general circulation model combining physics-based dynamics with learned components; Apache 2.0 code, CC BY-SA 4.0 weights",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-14T16:05:06Z",
-            "owner": "neuralgcm",
-            "repo": "neuralgcm",
-            "stars": 1006
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Aurora",
-          "description": "docs paper - 1.3B-parameter atmospheric foundation model for weather, air pollution, and ocean waves",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-04T19:27:52Z",
-            "owner": "microsoft",
-            "repo": "aurora",
-            "stars": 1003
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":sunglasses::sparkling_heart: Prithvi-WxC",
-          "description": "weights paper - 2.3B-parameter weather/climate foundation model on MERRA-2 for forecasting, downscaling, and parameterization",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-05T13:14:14Z",
-            "owner": "NASA-IMPACT",
-            "repo": "Prithvi-WxC",
-            "stars": 200
-          }
-        }
-      ],
-      "title": "Weather and Climate"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -511,6 +537,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92287968,
             "language": null,
             "last_commit": "2019-10-19T12:33:06Z",
             "owner": "kailashahirwar",
@@ -525,6 +552,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39610055,
             "language": "HTML",
             "last_commit": "2026-07-10T18:45:47Z",
             "owner": "ethen8181",
@@ -539,6 +567,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 117909333,
             "language": "Jupyter Notebook",
             "last_commit": "2019-07-25T03:53:29Z",
             "owner": "Azure",
@@ -553,6 +582,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49077518,
             "language": "Python",
             "last_commit": "2017-08-10T20:26:09Z",
             "owner": "worldbank",
@@ -567,11 +597,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1100969729,
             "language": "Jupyter Notebook",
             "last_commit": "2026-07-20T17:28:19Z",
             "owner": "giswqs",
             "repo": "GeoAI-Book",
-            "stars": 44
+            "stars": 45
           }
         },
         {
@@ -581,6 +612,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 208091990,
             "language": "Jupyter Notebook",
             "last_commit": "2022-08-22T16:18:13Z",
             "owner": "sentinel-hub",
@@ -595,6 +627,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 536380108,
             "language": "Jupyter Notebook",
             "last_commit": "2024-07-25T14:19:30Z",
             "owner": "earth-artificial-intelligence",
@@ -609,6 +642,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118838597,
             "language": "Jupyter Notebook",
             "last_commit": "2021-12-03T20:33:39Z",
             "owner": "acannistra",
@@ -623,6 +657,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 192028436,
             "language": "Jupyter Notebook",
             "last_commit": "2019-06-29T08:35:30Z",
             "owner": "Machine-Learning-Tokyo",
@@ -637,24 +672,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292366828,
             "language": "Jupyter Notebook",
             "last_commit": "2020-11-24T00:02:43Z",
             "owner": "waterhackweek",
             "repo": "whw2020_machine_learning",
             "stars": 3
           }
-        },
-        {
-          "node_type": "item",
-          "title": ":sunglasses::sparkling_heart: RadiantEarth MLhub Tutorials",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Tutorials"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -663,6 +693,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 131768562,
             "language": null,
             "last_commit": "2022-07-14T18:02:46Z",
             "owner": "chrieke",
@@ -677,6 +708,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 605966592,
             "language": "Python",
             "last_commit": "2026-08-01T21:36:12Z",
             "owner": "google-research",
@@ -691,6 +723,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162766976,
             "language": null,
             "last_commit": "2023-03-09T11:53:50Z",
             "owner": "phelber",
@@ -705,6 +738,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 180492532,
             "language": "Python",
             "last_commit": "2023-07-07T23:46:55Z",
             "owner": "smousavi05",
@@ -719,6 +753,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 948371619,
             "language": "Jupyter Notebook",
             "last_commit": "2025-10-02T15:44:30Z",
             "owner": "zhu-xlab",
@@ -733,6 +768,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 796883566,
             "language": "Python",
             "last_commit": "2026-07-20T18:14:38Z",
             "owner": "The-AI-Alliance",
@@ -753,11 +789,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 722562594,
             "language": "Python",
             "last_commit": "2024-11-28T12:05:13Z",
             "owner": "mbzuai-oryx",
             "repo": "GeoChat",
-            "stars": 740
+            "stars": 741
           }
         },
         {
@@ -767,6 +804,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 246486004,
             "language": "Python",
             "last_commit": "2026-04-13T18:59:21Z",
             "owner": "smousavi05",
@@ -781,6 +819,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 867805986,
             "language": "Python",
             "last_commit": "2025-12-01T21:50:17Z",
             "owner": "ermongroup",
@@ -795,6 +834,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 935879185,
             "language": "Python",
             "last_commit": "2025-06-20T09:44:34Z",
             "owner": "hiyamdebary",
@@ -809,6 +849,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117371450,
             "language": "Jupyter Notebook",
             "last_commit": "2021-11-19T09:12:43Z",
             "owner": "MarcCoru",
@@ -823,6 +864,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 134100153,
             "language": "MATLAB",
             "last_commit": "2024-10-30T02:30:36Z",
             "owner": "GERSL",
@@ -837,6 +879,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 134100153,
             "language": "MATLAB",
             "last_commit": "2024-10-30T02:30:36Z",
             "owner": "GERSL",
@@ -851,6 +894,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75110569,
             "language": "Lua",
             "last_commit": "2019-01-27T00:13:39Z",
             "owner": "manila95",
@@ -865,6 +909,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140582549,
             "language": "Python",
             "last_commit": "2022-02-08T07:56:56Z",
             "owner": "agr-ayush",
@@ -879,6 +924,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 216659677,
             "language": "Python",
             "last_commit": "2025-03-10T17:14:08Z",
             "owner": "duncanwp",
@@ -893,6 +939,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 206399115,
             "language": "HTML",
             "last_commit": "2021-04-21T19:30:41Z",
             "owner": "ucalyptus",
@@ -907,6 +954,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 144922101,
             "language": "C#",
             "last_commit": "2019-02-27T18:50:17Z",
             "owner": "microsoft",
@@ -921,6 +969,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 344502141,
             "language": "Python",
             "last_commit": "2023-09-07T18:42:00Z",
             "owner": "drivendataorg",
@@ -935,6 +984,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 359509615,
             "language": "Jupyter Notebook",
             "last_commit": "2021-09-16T14:51:08Z",
             "owner": "ZihengSun",
@@ -949,6 +999,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1160558272,
             "language": "Python",
             "last_commit": "2026-08-12T00:17:50Z",
             "owner": "argonBIsystems",
@@ -960,7 +1011,7 @@
       "title": "Code"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -969,11 +1020,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21872392,
             "language": "Python",
             "last_commit": "2026-08-11T21:49:59Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74050
+            "stars": 74068
           }
         },
         {
@@ -983,11 +1035,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35958325,
             "language": null,
             "last_commit": "2026-04-06T08:20:52Z",
             "owner": "meirwah",
             "repo": "awesome-workflow-engines",
-            "stars": 7912
+            "stars": 7913
           }
         },
         {
@@ -997,6 +1050,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22013111,
             "language": null,
             "last_commit": "2026-08-04T07:45:32Z",
             "owner": "pditommaso",
@@ -1011,6 +1065,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 131768562,
             "language": null,
             "last_commit": "2022-07-14T18:02:46Z",
             "owner": "chrieke",
@@ -1025,6 +1080,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107413465,
             "language": null,
             "last_commit": "2026-05-26T11:55:08Z",
             "owner": "softwareunderground",
@@ -1039,6 +1095,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 177848340,
             "language": null,
             "last_commit": "2025-11-12T14:32:13Z",
             "owner": "pangeo-data",
@@ -1053,6 +1110,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44335930,
             "language": null,
             "last_commit": "2018-01-04T14:42:48Z",
             "owner": "RoboDonut",
@@ -1067,6 +1125,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 849803706,
             "language": "Python",
             "last_commit": "2025-05-10T18:14:25Z",
             "owner": "rebase-energy",
@@ -1081,6 +1140,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 185494077,
             "language": null,
             "last_commit": "2026-07-06T11:45:28Z",
             "owner": "chrisleaman",
@@ -1095,6 +1155,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 676017524,
             "language": null,
             "last_commit": "2023-10-04T09:07:57Z",
             "owner": "XiongWeiTHU",
@@ -1109,6 +1170,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 677618008,
             "language": null,
             "last_commit": "2025-03-01T14:00:42Z",
             "owner": "HeQinWill",
@@ -1123,207 +1185,222 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 715541538,
             "language": null,
             "last_commit": "2023-12-27T10:56:58Z",
             "owner": "taohan10200",
             "repo": "Awesome_AI4Earth",
             "stars": 14
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MindsDB",
+              "description": "Explainable AutoML framework on PyTorch",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 143328315,
+                "language": "Makefile",
+                "last_commit": "2026-08-13T21:48:08Z",
+                "owner": "mindsdb",
+                "repo": "mindshub",
+                "stars": 39606
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Netron",
+              "description": "Neural network and ONNX/Keras/TFLite model visualizer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1198539,
+                "language": "JavaScript",
+                "last_commit": "2026-08-18T12:11:10Z",
+                "owner": "lutzroeder",
+                "repo": "netron",
+                "stars": 33366
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MLflow",
+              "description": "Machine learning lifecycle platform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136202695,
+                "language": "Python",
+                "last_commit": "2026-08-19T05:18:06Z",
+                "owner": "mlflow",
+                "repo": "mlflow",
+                "stars": 27573
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dopamine",
+              "description": "Research framework for reinforcement learning prototyping",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 142422739,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-03-24T18:11:40Z",
+                "owner": "google",
+                "repo": "dopamine",
+                "stars": 10897
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OneFlow",
+              "description": "Performance-centered open-source deep learning framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81634683,
+                "language": "C++",
+                "last_commit": "2025-12-04T01:29:28Z",
+                "owner": "Oneflow-Inc",
+                "repo": "oneflow",
+                "stars": 9425
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BentoML",
+              "description": "Open-source framework for high-performance ML model serving",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 178976529,
+                "language": "Python",
+                "last_commit": "2026-08-03T17:00:21Z",
+                "owner": "bentoml",
+                "repo": "BentoML",
+                "stars": 8793
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flashlight",
+              "description": "C++ standalone library for machine learning",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 161376600,
+                "language": "C++",
+                "last_commit": "2026-06-22T00:07:38Z",
+                "owner": "flashlight",
+                "repo": "flashlight",
+                "stars": 5465
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SynapseML",
+              "description": "Scalable ML pipelines on Apache Spark",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93381875,
+                "language": "Scala",
+                "last_commit": "2026-08-19T09:41:17Z",
+                "owner": "microsoft",
+                "repo": "SynapseML",
+                "stars": 5238
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Snips NLU",
+              "description": "Natural language understanding for structured extraction from text",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81349068,
+                "language": "Python",
+                "last_commit": "2023-05-22T16:10:15Z",
+                "owner": "snipsco",
+                "repo": "snips-nlu",
+                "stars": 3973
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Polyaxon",
+              "description": "ML platform for Kubernetes training and monitoring",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77383688,
+                "language": "MDX",
+                "last_commit": "2026-08-17T19:18:08Z",
+                "owner": "polyaxon",
+                "repo": "polyaxon",
+                "stars": 3719
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TensorFlow Hub",
+              "description": "Repository of reusable TensorFlow SavedModels",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 124853261,
+                "language": "Python",
+                "last_commit": "2025-01-17T12:09:41Z",
+                "owner": "tensorflow",
+                "repo": "hub",
+                "stars": 3523
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ml.js",
+              "description": "Machine learning tools in JavaScript",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25819289,
+                "language": "JavaScript",
+                "last_commit": "2024-10-21T07:02:43Z",
+                "owner": "mljs",
+                "repo": "ml",
+                "stars": 2716
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TransmogrifAI",
+              "description": "AutoML library on Apache Spark (Scala)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 109289451,
+                "language": "Scala",
+                "last_commit": "2026-06-02T18:03:07Z",
+                "owner": "salesforce",
+                "repo": "TransmogrifAI",
+                "stars": 2276
+              }
+            }
+          ],
+          "description": "These are useful in Earth AI workflows but are not Earth-specific; we list them here rather than in Tools.",
+          "node_type": "group",
+          "title": "General ML infrastructure (companion tools)"
         }
       ],
       "title": "RelatedAwesome"
-    },
-    {
-      "description": "These are useful in Earth AI workflows but are not Earth-specific; we list them here rather than in Tools.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MindsDB",
-          "description": "Explainable AutoML framework on PyTorch",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Makefile",
-            "last_commit": "2026-08-13T21:48:08Z",
-            "owner": "mindsdb",
-            "repo": "mindshub",
-            "stars": 39602
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Netron",
-          "description": "Neural network and ONNX/Keras/TFLite model visualizer",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T20:07:00Z",
-            "owner": "lutzroeder",
-            "repo": "netron",
-            "stars": 33362
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MLflow",
-          "description": "Machine learning lifecycle platform",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T05:55:19Z",
-            "owner": "mlflow",
-            "repo": "mlflow",
-            "stars": 27559
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dopamine",
-          "description": "Research framework for reinforcement learning prototyping",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-03-24T18:11:40Z",
-            "owner": "google",
-            "repo": "dopamine",
-            "stars": 10896
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OneFlow",
-          "description": "Performance-centered open-source deep learning framework",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-12-04T01:29:28Z",
-            "owner": "Oneflow-Inc",
-            "repo": "oneflow",
-            "stars": 9424
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BentoML",
-          "description": "Open-source framework for high-performance ML model serving",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-03T17:00:21Z",
-            "owner": "bentoml",
-            "repo": "BentoML",
-            "stars": 8790
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flashlight",
-          "description": "C++ standalone library for machine learning",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-06-22T00:07:38Z",
-            "owner": "flashlight",
-            "repo": "flashlight",
-            "stars": 5465
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SynapseML",
-          "description": "Scalable ML pipelines on Apache Spark",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Scala",
-            "last_commit": "2026-08-18T09:15:05Z",
-            "owner": "microsoft",
-            "repo": "SynapseML",
-            "stars": 5237
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Snips NLU",
-          "description": "Natural language understanding for structured extraction from text",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-05-22T16:10:15Z",
-            "owner": "snipsco",
-            "repo": "snips-nlu",
-            "stars": 3973
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Polyaxon",
-          "description": "ML platform for Kubernetes training and monitoring",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "MDX",
-            "last_commit": "2026-08-17T19:18:08Z",
-            "owner": "polyaxon",
-            "repo": "polyaxon",
-            "stars": 3719
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TensorFlow Hub",
-          "description": "Repository of reusable TensorFlow SavedModels",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-01-17T12:09:41Z",
-            "owner": "tensorflow",
-            "repo": "hub",
-            "stars": 3523
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ml.js",
-          "description": "Machine learning tools in JavaScript",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-10-21T07:02:43Z",
-            "owner": "mljs",
-            "repo": "ml",
-            "stars": 2715
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TransmogrifAI",
-          "description": "AutoML library on Apache Spark (Scala)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Scala",
-            "last_commit": "2026-06-02T18:03:07Z",
-            "owner": "salesforce",
-            "repo": "TransmogrifAI",
-            "stars": 2276
-          }
-        }
-      ],
-      "title": "General ML infrastructure (companion tools)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:48:04.125Z",
+    "last_updated": "2026-08-19T09:48:50.991Z",
     "original_repository": "ESIPFed/Awesome-Earth-Artificial-Intelligence",
     "original_repository_sha": "5d083e475e5aee531407c48e95fa7103662071aa",
     "enhanced_repository": "enhansome/enhansome-Awesome-Earth-Artificial-Intelligence",
