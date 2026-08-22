@@ -30,7 +30,7 @@
             "last_commit": "2020-05-20T04:57:25Z",
             "owner": "afshinea",
             "repo": "stanford-cs-229-machine-learning",
-            "stars": 20137
+            "stars": 20143
           }
         },
         {
@@ -108,10 +108,10 @@
             "archived": false,
             "id": 369428935,
             "language": "Python",
-            "last_commit": "2026-08-19T13:37:07Z",
+            "last_commit": "2026-08-21T23:42:03Z",
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4153
+            "stars": 4155
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-17T21:03:17Z",
             "owner": "opengeos",
             "repo": "segment-geospatial",
-            "stars": 4116
+            "stars": 4118
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-17T03:06:14Z",
             "owner": "opengeos",
             "repo": "geoai",
-            "stars": 3311
+            "stars": 3316
           }
         },
         {
@@ -168,10 +168,10 @@
             "archived": false,
             "id": 801016442,
             "language": "Python",
-            "last_commit": "2026-08-18T19:10:32Z",
+            "last_commit": "2026-08-21T16:43:32Z",
             "owner": "torchgeo",
             "repo": "terratorch",
-            "stars": 846
+            "stars": 849
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-20T15:34:02Z",
             "owner": "NVIDIA",
             "repo": "torch-harmonics",
-            "stars": 697
+            "stars": 698
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-01T21:36:12Z",
             "owner": "google-research",
             "repo": "weatherbench2",
-            "stars": 631
+            "stars": 632
           }
         },
         {
@@ -363,7 +363,7 @@
             "archived": false,
             "id": 917968665,
             "language": "Python",
-            "last_commit": "2026-08-11T16:37:52Z",
+            "last_commit": "2026-08-21T23:19:51Z",
             "owner": "GRIME-Lab",
             "repo": "GRIME-AI",
             "stars": 4
@@ -389,7 +389,7 @@
                 "last_commit": "2026-05-11T05:02:56Z",
                 "owner": "Clay-foundation",
                 "repo": "model",
-                "stars": 608
+                "stars": 609
               }
             },
             {
@@ -434,7 +434,7 @@
                 "last_commit": "2026-07-22T10:46:18Z",
                 "owner": "zhu-xlab",
                 "repo": "DOFA",
-                "stars": 204
+                "stars": 205
               }
             },
             {
@@ -471,7 +471,22 @@
                 "last_commit": "2026-08-11T12:29:00Z",
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7577
+                "stars": 7579
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Aurora",
+              "description": "docs paper - 1.3B-parameter atmospheric foundation model for weather, air pollution, and ocean waves",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 828987595,
+                "language": "Python",
+                "last_commit": "2026-08-19T20:14:02Z",
+                "owner": "microsoft",
+                "repo": "aurora",
+                "stars": 1006
               }
             },
             {
@@ -487,21 +502,6 @@
                 "owner": "neuralgcm",
                 "repo": "neuralgcm",
                 "stars": 1006
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Aurora",
-              "description": "docs paper - 1.3B-parameter atmospheric foundation model for weather, air pollution, and ocean waves",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 828987595,
-                "language": "Python",
-                "last_commit": "2026-08-19T20:14:02Z",
-                "owner": "microsoft",
-                "repo": "aurora",
-                "stars": 1004
               }
             },
             {
@@ -698,7 +698,7 @@
             "last_commit": "2022-07-14T18:02:46Z",
             "owner": "chrieke",
             "repo": "awesome-satellite-imagery-datasets",
-            "stars": 3915
+            "stars": 3916
           }
         },
         {
@@ -713,7 +713,7 @@
             "last_commit": "2026-08-01T21:36:12Z",
             "owner": "google-research",
             "repo": "weatherbench2",
-            "stars": 631
+            "stars": 632
           }
         },
         {
@@ -1022,10 +1022,10 @@
             "archived": false,
             "id": 21872392,
             "language": "Python",
-            "last_commit": "2026-08-11T21:49:59Z",
+            "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74092
+            "stars": 74111
           }
         },
         {
@@ -1040,7 +1040,7 @@
             "last_commit": "2026-04-06T08:20:52Z",
             "owner": "meirwah",
             "repo": "awesome-workflow-engines",
-            "stars": 7917
+            "stars": 7916
           }
         },
         {
@@ -1070,7 +1070,7 @@
             "last_commit": "2022-07-14T18:02:46Z",
             "owner": "chrieke",
             "repo": "awesome-satellite-imagery-datasets",
-            "stars": 3915
+            "stars": 3916
           }
         },
         {
@@ -1204,10 +1204,10 @@
                 "archived": false,
                 "id": 143328315,
                 "language": "Makefile",
-                "last_commit": "2026-08-21T03:24:05Z",
+                "last_commit": "2026-08-21T23:50:38Z",
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39620
+                "stars": 39628
               }
             },
             {
@@ -1219,10 +1219,10 @@
                 "archived": false,
                 "id": 1198539,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T12:11:10Z",
+                "last_commit": "2026-08-22T02:19:08Z",
                 "owner": "lutzroeder",
                 "repo": "netron",
-                "stars": 33380
+                "stars": 33384
               }
             },
             {
@@ -1234,10 +1234,10 @@
                 "archived": false,
                 "id": 136202695,
                 "language": "Python",
-                "last_commit": "2026-08-21T07:32:02Z",
+                "last_commit": "2026-08-22T06:24:37Z",
                 "owner": "mlflow",
                 "repo": "mlflow",
-                "stars": 27601
+                "stars": 27615
               }
             },
             {
@@ -1252,7 +1252,7 @@
                 "last_commit": "2026-03-24T18:11:40Z",
                 "owner": "google",
                 "repo": "dopamine",
-                "stars": 10896
+                "stars": 10897
               }
             },
             {
@@ -1282,7 +1282,7 @@
                 "last_commit": "2026-08-21T07:40:35Z",
                 "owner": "bentoml",
                 "repo": "BentoML",
-                "stars": 8794
+                "stars": 8795
               }
             },
             {
@@ -1297,7 +1297,7 @@
                 "last_commit": "2026-06-22T00:07:38Z",
                 "owner": "flashlight",
                 "repo": "flashlight",
-                "stars": 5466
+                "stars": 5467
               }
             },
             {
@@ -1309,7 +1309,7 @@
                 "archived": false,
                 "id": 93381875,
                 "language": "Scala",
-                "last_commit": "2026-08-21T08:01:57Z",
+                "last_commit": "2026-08-22T05:59:48Z",
                 "owner": "microsoft",
                 "repo": "SynapseML",
                 "stars": 5238
@@ -1342,7 +1342,7 @@
                 "last_commit": "2026-08-20T10:11:56Z",
                 "owner": "polyaxon",
                 "repo": "polyaxon",
-                "stars": 3721
+                "stars": 3722
               }
             },
             {
@@ -1400,7 +1400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T09:51:38.588Z",
+    "last_updated": "2026-08-22T09:41:18.309Z",
     "original_repository": "ESIPFed/Awesome-Earth-Artificial-Intelligence",
     "original_repository_id": 287369884,
     "original_repository_sha": "5d083e475e5aee531407c48e95fa7103662071aa",
