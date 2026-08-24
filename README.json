@@ -30,7 +30,7 @@
             "last_commit": "2020-05-20T04:57:25Z",
             "owner": "afshinea",
             "repo": "stanford-cs-229-machine-learning",
-            "stars": 20149
+            "stars": 20153
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-24T03:04:38Z",
             "owner": "opengeos",
             "repo": "geoai",
-            "stars": 3321
+            "stars": 3322
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-01-15T07:25:25Z",
             "owner": "sentinel-hub",
             "repo": "eo-learn",
-            "stars": 1246
+            "stars": 1247
           }
         },
         {
@@ -698,7 +698,7 @@
             "last_commit": "2022-07-14T18:02:46Z",
             "owner": "chrieke",
             "repo": "awesome-satellite-imagery-datasets",
-            "stars": 3916
+            "stars": 3915
           }
         },
         {
@@ -743,7 +743,7 @@
             "last_commit": "2023-07-07T23:46:55Z",
             "owner": "smousavi05",
             "repo": "STEAD",
-            "stars": 404
+            "stars": 405
           }
         },
         {
@@ -869,7 +869,7 @@
             "last_commit": "2024-10-30T02:30:36Z",
             "owner": "GERSL",
             "repo": "CCDC",
-            "stars": 106
+            "stars": 107
           }
         },
         {
@@ -884,7 +884,7 @@
             "last_commit": "2024-10-30T02:30:36Z",
             "owner": "GERSL",
             "repo": "CCDC",
-            "stars": 106
+            "stars": 107
           }
         },
         {
@@ -1025,7 +1025,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74138
+            "stars": 74142
           }
         },
         {
@@ -1055,7 +1055,7 @@
             "last_commit": "2026-08-04T07:45:32Z",
             "owner": "pditommaso",
             "repo": "awesome-pipeline",
-            "stars": 6622
+            "stars": 6623
           }
         },
         {
@@ -1070,7 +1070,7 @@
             "last_commit": "2022-07-14T18:02:46Z",
             "owner": "chrieke",
             "repo": "awesome-satellite-imagery-datasets",
-            "stars": 3916
+            "stars": 3915
           }
         },
         {
@@ -1219,10 +1219,10 @@
                 "archived": false,
                 "id": 1198539,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T02:37:04Z",
+                "last_commit": "2026-08-24T12:22:40Z",
                 "owner": "lutzroeder",
                 "repo": "netron",
-                "stars": 33393
+                "stars": 33395
               }
             },
             {
@@ -1234,10 +1234,10 @@
                 "archived": false,
                 "id": 136202695,
                 "language": "Python",
-                "last_commit": "2026-08-24T09:19:00Z",
+                "last_commit": "2026-08-24T12:12:03Z",
                 "owner": "mlflow",
                 "repo": "mlflow",
-                "stars": 27646
+                "stars": 27650
               }
             },
             {
@@ -1327,7 +1327,7 @@
                 "last_commit": "2023-05-22T16:10:15Z",
                 "owner": "snipsco",
                 "repo": "snips-nlu",
-                "stars": 3973
+                "stars": 3972
               }
             },
             {
@@ -1400,7 +1400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:03:22.119Z",
+    "last_updated": "2026-08-24T14:30:31.145Z",
     "original_repository": "ESIPFed/Awesome-Earth-Artificial-Intelligence",
     "original_repository_id": 287369884,
     "original_repository_sha": "5d083e475e5aee531407c48e95fa7103662071aa",
