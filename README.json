@@ -108,10 +108,10 @@
             "archived": false,
             "id": 369428935,
             "language": "Python",
-            "last_commit": "2026-08-26T17:14:13Z",
+            "last_commit": "2026-08-27T13:16:41Z",
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4159
+            "stars": 4162
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-24T20:37:32Z",
             "owner": "opengeos",
             "repo": "segment-geospatial",
-            "stars": 4123
+            "stars": 4124
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-24T03:04:38Z",
             "owner": "opengeos",
             "repo": "geoai",
-            "stars": 3329
+            "stars": 3330
           }
         },
         {
@@ -168,7 +168,7 @@
             "archived": false,
             "id": 801016442,
             "language": "Python",
-            "last_commit": "2026-08-27T10:03:11Z",
+            "last_commit": "2026-08-27T12:41:01Z",
             "owner": "torchgeo",
             "repo": "terratorch",
             "stars": 852
@@ -183,7 +183,7 @@
             "archived": false,
             "id": 587447959,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-26T06:48:21Z",
+            "last_commit": "2026-08-27T12:03:41Z",
             "owner": "NVIDIA",
             "repo": "torch-harmonics",
             "stars": 698
@@ -404,7 +404,7 @@
                 "last_commit": "2026-08-24T00:39:55Z",
                 "owner": "IBM",
                 "repo": "terramind",
-                "stars": 310
+                "stars": 311
               }
             },
             {
@@ -471,7 +471,7 @@
                 "last_commit": "2026-08-11T12:29:00Z",
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7599
+                "stars": 7601
               }
             },
             {
@@ -486,7 +486,7 @@
                 "last_commit": "2026-08-19T20:14:02Z",
                 "owner": "microsoft",
                 "repo": "aurora",
-                "stars": 1011
+                "stars": 1012
               }
             },
             {
@@ -1022,10 +1022,10 @@
             "archived": false,
             "id": 21872392,
             "language": "Python",
-            "last_commit": "2026-08-26T21:09:24Z",
+            "last_commit": "2026-08-27T15:29:10Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74176
+            "stars": 74184
           }
         },
         {
@@ -1040,7 +1040,7 @@
             "last_commit": "2026-04-06T08:20:52Z",
             "owner": "meirwah",
             "repo": "awesome-workflow-engines",
-            "stars": 7915
+            "stars": 7916
           }
         },
         {
@@ -1085,7 +1085,7 @@
             "last_commit": "2026-05-26T11:55:08Z",
             "owner": "softwareunderground",
             "repo": "awesome-open-geoscience",
-            "stars": 1823
+            "stars": 1824
           }
         },
         {
@@ -1207,7 +1207,7 @@
                 "last_commit": "2026-08-21T23:50:38Z",
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39650
+                "stars": 39651
               }
             },
             {
@@ -1219,10 +1219,10 @@
                 "archived": false,
                 "id": 1198539,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T08:41:02Z",
+                "last_commit": "2026-08-27T19:29:41Z",
                 "owner": "lutzroeder",
                 "repo": "netron",
-                "stars": 33412
+                "stars": 33415
               }
             },
             {
@@ -1234,10 +1234,10 @@
                 "archived": false,
                 "id": 136202695,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:18:51Z",
+                "last_commit": "2026-08-27T15:56:46Z",
                 "owner": "mlflow",
                 "repo": "mlflow",
-                "stars": 27690
+                "stars": 27694
               }
             },
             {
@@ -1282,7 +1282,7 @@
                 "last_commit": "2026-08-26T07:56:48Z",
                 "owner": "bentoml",
                 "repo": "BentoML",
-                "stars": 8809
+                "stars": 8811
               }
             },
             {
@@ -1297,7 +1297,7 @@
                 "last_commit": "2026-06-22T00:07:38Z",
                 "owner": "flashlight",
                 "repo": "flashlight",
-                "stars": 5466
+                "stars": 5467
               }
             },
             {
@@ -1309,10 +1309,10 @@
                 "archived": false,
                 "id": 93381875,
                 "language": "Scala",
-                "last_commit": "2026-08-27T05:05:17Z",
+                "last_commit": "2026-08-27T18:47:39Z",
                 "owner": "microsoft",
                 "repo": "SynapseML",
-                "stars": 5240
+                "stars": 5241
               }
             },
             {
@@ -1342,7 +1342,7 @@
                 "last_commit": "2026-08-26T14:17:22Z",
                 "owner": "polyaxon",
                 "repo": "polyaxon",
-                "stars": 3724
+                "stars": 3725
               }
             },
             {
@@ -1400,7 +1400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:21:28.375Z",
+    "last_updated": "2026-08-27T19:50:17.661Z",
     "original_repository_info": {
       "archived": false,
       "id": 287369884,
