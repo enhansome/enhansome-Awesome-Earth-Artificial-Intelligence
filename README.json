@@ -15,8 +15,9 @@
             "last_commit": "2026-05-19T23:03:15Z",
             "owner": "ageron",
             "repo": "handson-ml",
-            "stars": 25595
-          }
+            "stars": 25598
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2020-05-20T04:57:25Z",
             "owner": "afshinea",
             "repo": "stanford-cs-229-machine-learning",
-            "stars": 20161
-          }
+            "stars": 20164
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "NCAR",
             "repo": "ai4ess-hackathon-2020",
             "stars": 109
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "radiantearth",
             "repo": "ml4eo-bootcamp-2021",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "giswqs",
             "repo": "GeoAI-Book",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "NASA-IMPACT",
             "repo": "workshop_notebooks",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         }
       ],
       "title": "Courses"
@@ -108,11 +114,12 @@
             "archived": false,
             "id": 369428935,
             "language": "Python",
-            "last_commit": "2026-08-27T13:16:41Z",
+            "last_commit": "2026-08-28T20:14:22Z",
             "owner": "torchgeo",
             "repo": "torchgeo",
             "stars": 4162
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "opengeos",
             "repo": "segment-geospatial",
             "stars": 4124
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -141,8 +149,9 @@
             "last_commit": "2026-08-24T03:04:38Z",
             "owner": "opengeos",
             "repo": "geoai",
-            "stars": 3330
-          }
+            "stars": 3332
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "sentinel-hub",
             "repo": "eo-learn",
             "stars": 1247
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -168,11 +178,12 @@
             "archived": false,
             "id": 801016442,
             "language": "Python",
-            "last_commit": "2026-08-27T12:41:01Z",
+            "last_commit": "2026-08-28T07:04:47Z",
             "owner": "torchgeo",
             "repo": "terratorch",
             "stars": 852
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -183,11 +194,12 @@
             "archived": false,
             "id": 587447959,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-27T12:03:41Z",
+            "last_commit": "2026-08-28T16:10:14Z",
             "owner": "NVIDIA",
             "repo": "torch-harmonics",
-            "stars": 698
-          }
+            "stars": 697
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -201,8 +213,9 @@
             "last_commit": "2026-08-01T21:36:12Z",
             "owner": "google-research",
             "repo": "weatherbench2",
-            "stars": 633
-          }
+            "stars": 632
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "ecmwf-lab",
             "repo": "ai-models",
             "stars": 585
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "seisbench",
             "repo": "seisbench",
             "stars": 414
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -243,11 +258,12 @@
             "archived": false,
             "id": 696782184,
             "language": "Python",
-            "last_commit": "2026-08-27T11:11:21Z",
+            "last_commit": "2026-08-28T07:49:41Z",
             "owner": "NVIDIA",
             "repo": "makani",
             "stars": 398
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "aditya-grover",
             "repo": "climate-learn",
             "stars": 354
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "google",
             "repo": "xarray-beam",
             "stars": 170
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "holoviz-topics",
             "repo": "EarthML",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "microsoft",
             "repo": "AIforEarth-API-Platform",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "The-AI-Alliance",
             "repo": "GEO-Bench-2",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "ESIPFed",
             "repo": "pygeoweaver",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "gaugecam-dev",
             "repo": "GRIME2",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -363,11 +386,12 @@
             "archived": false,
             "id": 917968665,
             "language": "Python",
-            "last_commit": "2026-08-26T20:32:26Z",
+            "last_commit": "2026-08-28T20:45:19Z",
             "owner": "GRIME-Lab",
             "repo": "GRIME-AI",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         }
       ],
       "title": "Tools"
@@ -390,7 +414,8 @@
                 "owner": "Clay-foundation",
                 "repo": "model",
                 "stars": 610
-              }
+              },
+              "first_seen": "2026-08-28T20:50:30.123Z"
             },
             {
               "node_type": "item",
@@ -404,8 +429,9 @@
                 "last_commit": "2026-08-24T00:39:55Z",
                 "owner": "IBM",
                 "repo": "terramind",
-                "stars": 311
-              }
+                "stars": 314
+              },
+              "first_seen": "2026-08-28T20:50:30.123Z"
             },
             {
               "node_type": "item",
@@ -419,8 +445,9 @@
                 "last_commit": "2025-02-13T11:11:23Z",
                 "owner": "NASA-IMPACT",
                 "repo": "Prithvi-EO-2.0",
-                "stars": 295
-              }
+                "stars": 296
+              },
+              "first_seen": "2026-08-28T20:50:30.123Z"
             },
             {
               "node_type": "item",
@@ -434,8 +461,9 @@
                 "last_commit": "2026-07-22T10:46:18Z",
                 "owner": "zhu-xlab",
                 "repo": "DOFA",
-                "stars": 207
-              }
+                "stars": 208
+              },
+              "first_seen": "2026-08-28T20:50:30.123Z"
             },
             {
               "node_type": "item",
@@ -449,8 +477,9 @@
                 "last_commit": "2025-10-02T15:44:30Z",
                 "owner": "zhu-xlab",
                 "repo": "Copernicus-FM",
-                "stars": 148
-              }
+                "stars": 149
+              },
+              "first_seen": "2026-08-28T20:50:30.123Z"
             }
           ],
           "description": null,
@@ -471,8 +500,9 @@
                 "last_commit": "2026-08-11T12:29:00Z",
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7601
-              }
+                "stars": 7605
+              },
+              "first_seen": "2026-08-28T20:50:30.123Z"
             },
             {
               "node_type": "item",
@@ -486,8 +516,9 @@
                 "last_commit": "2026-08-19T20:14:02Z",
                 "owner": "microsoft",
                 "repo": "aurora",
-                "stars": 1012
-              }
+                "stars": 1014
+              },
+              "first_seen": "2026-08-28T20:50:30.123Z"
             },
             {
               "node_type": "item",
@@ -502,7 +533,8 @@
                 "owner": "neuralgcm",
                 "repo": "neuralgcm",
                 "stars": 1008
-              }
+              },
+              "first_seen": "2026-08-28T20:50:30.123Z"
             },
             {
               "node_type": "item",
@@ -517,7 +549,8 @@
                 "owner": "NASA-IMPACT",
                 "repo": "Prithvi-WxC",
                 "stars": 200
-              }
+              },
+              "first_seen": "2026-08-28T20:50:30.123Z"
             }
           ],
           "description": null,
@@ -543,7 +576,8 @@
             "owner": "kailashahirwar",
             "repo": "cheatsheets-ai",
             "stars": 15428
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -558,7 +592,8 @@
             "owner": "ethen8181",
             "repo": "machine-learning",
             "stars": 3498
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -573,7 +608,8 @@
             "owner": "Azure",
             "repo": "pixel_level_land_classification",
             "stars": 281
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -588,7 +624,8 @@
             "owner": "worldbank",
             "repo": "ml4dev",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -603,7 +640,8 @@
             "owner": "giswqs",
             "repo": "GeoAI-Book",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -618,7 +656,8 @@
             "owner": "sentinel-hub",
             "repo": "eo-learn-workshop",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -633,7 +672,8 @@
             "owner": "earth-artificial-intelligence",
             "repo": "earth_ai_book_materials",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -648,7 +688,8 @@
             "owner": "acannistra",
             "repo": "planet-snowcover",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -663,7 +704,8 @@
             "owner": "Machine-Learning-Tokyo",
             "repo": "ELSI-DL-Bootcamp",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -678,7 +720,8 @@
             "owner": "waterhackweek",
             "repo": "whw2020_machine_learning",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         }
       ],
       "title": "Tutorials"
@@ -698,8 +741,9 @@
             "last_commit": "2022-07-14T18:02:46Z",
             "owner": "chrieke",
             "repo": "awesome-satellite-imagery-datasets",
-            "stars": 3915
-          }
+            "stars": 3914
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -713,8 +757,9 @@
             "last_commit": "2026-08-01T21:36:12Z",
             "owner": "google-research",
             "repo": "weatherbench2",
-            "stars": 633
-          }
+            "stars": 632
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -729,7 +774,8 @@
             "owner": "phelber",
             "repo": "EuroSAT",
             "stars": 573
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -744,7 +790,8 @@
             "owner": "smousavi05",
             "repo": "STEAD",
             "stars": 405
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -758,8 +805,9 @@
             "last_commit": "2025-10-02T15:44:30Z",
             "owner": "zhu-xlab",
             "repo": "Copernicus-FM",
-            "stars": 148
-          }
+            "stars": 149
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -774,7 +822,8 @@
             "owner": "The-AI-Alliance",
             "repo": "GEO-Bench-2",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         }
       ],
       "title": "Training Data"
@@ -795,7 +844,8 @@
             "owner": "mbzuai-oryx",
             "repo": "GeoChat",
             "stars": 744
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -810,7 +860,8 @@
             "owner": "smousavi05",
             "repo": "EQTransformer",
             "stars": 416
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -825,7 +876,8 @@
             "owner": "ermongroup",
             "repo": "TEOChat",
             "stars": 150
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -840,7 +892,8 @@
             "owner": "hiyamdebary",
             "repo": "EarthDial",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -855,7 +908,8 @@
             "owner": "MarcCoru",
             "repo": "MTLCC",
             "stars": 114
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -870,7 +924,8 @@
             "owner": "GERSL",
             "repo": "CCDC",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -885,7 +940,8 @@
             "owner": "GERSL",
             "repo": "CCDC",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -900,7 +956,8 @@
             "owner": "manila95",
             "repo": "BASS-Net",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -915,7 +972,8 @@
             "owner": "agr-ayush",
             "repo": "Landsat-Time-Series-Analysis-for-Multi-Temporal-Land-Cover-Classification",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -930,7 +988,8 @@
             "owner": "duncanwp",
             "repo": "ESEm",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -945,7 +1004,8 @@
             "owner": "ucalyptus",
             "repo": "EarthEngine-Deep-Learning",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -960,7 +1020,8 @@
             "owner": "microsoft",
             "repo": "Earth-Lens",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -975,7 +1036,8 @@
             "owner": "drivendataorg",
             "repo": "wind-dependent-variables",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -990,7 +1052,8 @@
             "owner": "ZihengSun",
             "repo": "EmissionAI",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -1001,11 +1064,12 @@
             "archived": false,
             "id": 1160558272,
             "language": "Python",
-            "last_commit": "2026-08-12T00:17:50Z",
+            "last_commit": "2026-08-28T19:56:37Z",
             "owner": "argonBIsystems",
             "repo": "infernis",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         }
       ],
       "title": "Code"
@@ -1025,8 +1089,9 @@
             "last_commit": "2026-08-27T15:29:10Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74184
-          }
+            "stars": 74202
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -1041,7 +1106,8 @@
             "owner": "meirwah",
             "repo": "awesome-workflow-engines",
             "stars": 7916
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -1055,8 +1121,9 @@
             "last_commit": "2026-08-04T07:45:32Z",
             "owner": "pditommaso",
             "repo": "awesome-pipeline",
-            "stars": 6624
-          }
+            "stars": 6625
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -1070,8 +1137,9 @@
             "last_commit": "2022-07-14T18:02:46Z",
             "owner": "chrieke",
             "repo": "awesome-satellite-imagery-datasets",
-            "stars": 3915
-          }
+            "stars": 3914
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -1085,8 +1153,9 @@
             "last_commit": "2026-05-26T11:55:08Z",
             "owner": "softwareunderground",
             "repo": "awesome-open-geoscience",
-            "stars": 1824
-          }
+            "stars": 1825
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -1101,7 +1170,8 @@
             "owner": "pangeo-data",
             "repo": "awesome-open-climate-science",
             "stars": 596
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -1116,7 +1186,8 @@
             "owner": "RoboDonut",
             "repo": "awesome-spatial",
             "stars": 222
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -1131,7 +1202,8 @@
             "owner": "rebase-energy",
             "repo": "awesome-weather-models",
             "stars": 148
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -1142,11 +1214,12 @@
             "archived": false,
             "id": 185494077,
             "language": null,
-            "last_commit": "2026-07-06T11:45:28Z",
+            "last_commit": "2026-08-28T08:20:15Z",
             "owner": "chrisleaman",
             "repo": "awesome-coastal",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -1161,7 +1234,8 @@
             "owner": "XiongWeiTHU",
             "repo": "Awesome-AI-for-Atmosphere-and-Ocean",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -1176,7 +1250,8 @@
             "owner": "HeQinWill",
             "repo": "awesome-WeatherAI",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "node_type": "item",
@@ -1191,7 +1266,8 @@
             "owner": "taohan10200",
             "repo": "Awesome_AI4Earth",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
         },
         {
           "children": [
@@ -1207,8 +1283,9 @@
                 "last_commit": "2026-08-21T23:50:38Z",
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39651
-              }
+                "stars": 39656
+              },
+              "first_seen": "2026-08-28T20:50:30.123Z"
             },
             {
               "node_type": "item",
@@ -1219,11 +1296,12 @@
                 "archived": false,
                 "id": 1198539,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T19:29:41Z",
+                "last_commit": "2026-08-28T17:15:34Z",
                 "owner": "lutzroeder",
                 "repo": "netron",
-                "stars": 33415
-              }
+                "stars": 33420
+              },
+              "first_seen": "2026-08-28T20:50:30.123Z"
             },
             {
               "node_type": "item",
@@ -1234,11 +1312,12 @@
                 "archived": false,
                 "id": 136202695,
                 "language": "Python",
-                "last_commit": "2026-08-27T15:56:46Z",
+                "last_commit": "2026-08-28T16:11:46Z",
                 "owner": "mlflow",
                 "repo": "mlflow",
-                "stars": 27694
-              }
+                "stars": 27713
+              },
+              "first_seen": "2026-08-28T20:50:30.123Z"
             },
             {
               "node_type": "item",
@@ -1252,8 +1331,9 @@
                 "last_commit": "2026-03-24T18:11:40Z",
                 "owner": "google",
                 "repo": "dopamine",
-                "stars": 10900
-              }
+                "stars": 10901
+              },
+              "first_seen": "2026-08-28T20:50:30.123Z"
             },
             {
               "node_type": "item",
@@ -1268,7 +1348,8 @@
                 "owner": "Oneflow-Inc",
                 "repo": "oneflow",
                 "stars": 9428
-              }
+              },
+              "first_seen": "2026-08-28T20:50:30.123Z"
             },
             {
               "node_type": "item",
@@ -1279,11 +1360,12 @@
                 "archived": false,
                 "id": 178976529,
                 "language": "Python",
-                "last_commit": "2026-08-26T07:56:48Z",
+                "last_commit": "2026-08-28T09:19:45Z",
                 "owner": "bentoml",
                 "repo": "BentoML",
-                "stars": 8811
-              }
+                "stars": 8813
+              },
+              "first_seen": "2026-08-28T20:50:30.123Z"
             },
             {
               "node_type": "item",
@@ -1298,7 +1380,8 @@
                 "owner": "flashlight",
                 "repo": "flashlight",
                 "stars": 5467
-              }
+              },
+              "first_seen": "2026-08-28T20:50:30.123Z"
             },
             {
               "node_type": "item",
@@ -1309,11 +1392,12 @@
                 "archived": false,
                 "id": 93381875,
                 "language": "Scala",
-                "last_commit": "2026-08-27T18:47:39Z",
+                "last_commit": "2026-08-28T05:43:35Z",
                 "owner": "microsoft",
                 "repo": "SynapseML",
-                "stars": 5241
-              }
+                "stars": 5242
+              },
+              "first_seen": "2026-08-28T20:50:30.123Z"
             },
             {
               "node_type": "item",
@@ -1328,7 +1412,8 @@
                 "owner": "snipsco",
                 "repo": "snips-nlu",
                 "stars": 3973
-              }
+              },
+              "first_seen": "2026-08-28T20:50:30.123Z"
             },
             {
               "node_type": "item",
@@ -1339,11 +1424,12 @@
                 "archived": false,
                 "id": 77383688,
                 "language": "MDX",
-                "last_commit": "2026-08-26T14:17:22Z",
+                "last_commit": "2026-08-28T13:15:50Z",
                 "owner": "polyaxon",
                 "repo": "polyaxon",
-                "stars": 3725
-              }
+                "stars": 3726
+              },
+              "first_seen": "2026-08-28T20:50:30.123Z"
             },
             {
               "node_type": "item",
@@ -1357,8 +1443,9 @@
                 "last_commit": "2025-01-17T12:09:41Z",
                 "owner": "tensorflow",
                 "repo": "hub",
-                "stars": 3523
-              }
+                "stars": 3524
+              },
+              "first_seen": "2026-08-28T20:50:30.123Z"
             },
             {
               "node_type": "item",
@@ -1372,8 +1459,9 @@
                 "last_commit": "2024-10-21T07:02:43Z",
                 "owner": "mljs",
                 "repo": "ml",
-                "stars": 2716
-              }
+                "stars": 2717
+              },
+              "first_seen": "2026-08-28T20:50:30.123Z"
             },
             {
               "node_type": "item",
@@ -1388,7 +1476,8 @@
                 "owner": "salesforce",
                 "repo": "TransmogrifAI",
                 "stars": 2277
-              }
+              },
+              "first_seen": "2026-08-28T20:50:30.123Z"
             }
           ],
           "description": "These are useful in Earth AI workflows but are not Earth-specific; we list them here rather than in Tools.",
@@ -1400,7 +1489,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:50:17.661Z",
+    "last_updated": "2026-08-28T20:50:30.123Z",
     "original_repository_info": {
       "archived": false,
       "id": 287369884,
