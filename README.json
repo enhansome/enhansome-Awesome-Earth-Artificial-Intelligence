@@ -19,7 +19,7 @@
             "open_issues": 145,
             "owner": "ageron",
             "repo": "handson-ml",
-            "stars": 25598,
+            "stars": 25597,
             "topics": [
               "deep-learning",
               "deprecated",
@@ -51,7 +51,7 @@
             "open_issues": 20,
             "owner": "afshinea",
             "repo": "stanford-cs-229-machine-learning",
-            "stars": 20163,
+            "stars": 20166,
             "topics": [
               "cheatsheet",
               "cs229",
@@ -176,7 +176,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-28T20:14:22Z",
-            "open_issues": 210,
+            "open_issues": 211,
             "owner": "torchgeo",
             "repo": "torchgeo",
             "stars": 4162,
@@ -212,7 +212,7 @@
             "open_issues": 6,
             "owner": "opengeos",
             "repo": "segment-geospatial",
-            "stars": 4125,
+            "stars": 4126,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -297,8 +297,8 @@
             "id": 801016442,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T07:04:47Z",
-            "open_issues": 50,
+            "last_commit": "2026-08-29T10:35:16Z",
+            "open_issues": 49,
             "owner": "torchgeo",
             "repo": "terratorch",
             "stars": 852,
@@ -328,7 +328,7 @@
             "id": 587447959,
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T16:10:14Z",
+            "last_commit": "2026-08-29T09:10:23Z",
             "open_issues": 6,
             "owner": "NVIDIA",
             "repo": "torch-harmonics",
@@ -530,6 +530,34 @@
         },
         {
           "node_type": "item",
+          "title": "AI Segmentation by TerraLab",
+          "description": "QGIS plugin for point-and-click segmentation of buildings, trees and any object in satellite and drone imagery into vector polygons, with a free CPU-only local mode",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Segment anything on your raster data using AI in QGIS",
+            "homepage": "https://terra-lab.ai/ai-segmentation",
+            "id": 1138307131,
+            "language": "Python",
+            "license": "GPL-2.0",
+            "last_commit": "2026-08-28T20:01:12Z",
+            "open_issues": 0,
+            "owner": "TerraLabAI",
+            "repo": "QGIS_AI-Segmentation",
+            "stars": 35,
+            "topics": [
+              "ai",
+              "geospatial",
+              "qgis",
+              "qgis-plugin",
+              "raster",
+              "segmentation"
+            ]
+          },
+          "first_seen": "2026-08-29T14:27:48.353Z"
+        },
+        {
+          "node_type": "item",
           "title": "GEO-Bench-2",
           "description": "leaderboard paper - Reproducible benchmark for geospatial foundation models across 19 permissively licensed datasets",
           "children": [],
@@ -540,7 +568,7 @@
             "id": 796883566,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-07-20T18:14:38Z",
+            "last_commit": "2026-08-29T08:45:30Z",
             "open_issues": 12,
             "owner": "The-AI-Alliance",
             "repo": "GEO-Bench-2",
@@ -561,8 +589,8 @@
             "id": 619011541,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-27T03:52:24Z",
-            "open_issues": 13,
+            "last_commit": "2026-08-29T07:37:28Z",
+            "open_issues": 12,
             "owner": "ESIPFed",
             "repo": "pygeoweaver",
             "stars": 17,
@@ -766,7 +794,7 @@
                 "open_issues": 77,
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7606,
+                "stars": 7607,
                 "topics": [
                   "weather",
                   "weather-forecast"
@@ -790,7 +818,7 @@
                 "open_issues": 69,
                 "owner": "microsoft",
                 "repo": "aurora",
-                "stars": 1014,
+                "stars": 1013,
                 "topics": [
                   "atmospheric-chemistry",
                   "aurora-model",
@@ -872,7 +900,7 @@
             "open_issues": 12,
             "owner": "kailashahirwar",
             "repo": "cheatsheets-ai",
-            "stars": 15429,
+            "stars": 15430,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -1247,7 +1275,7 @@
             "id": 796883566,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-07-20T18:14:38Z",
+            "last_commit": "2026-08-29T08:45:30Z",
             "open_issues": 12,
             "owner": "The-AI-Alliance",
             "repo": "GEO-Bench-2",
@@ -1640,10 +1668,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74202,
+            "stars": 74204,
             "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
@@ -1664,7 +1692,7 @@
             "open_issues": 71,
             "owner": "meirwah",
             "repo": "awesome-workflow-engines",
-            "stars": 7916,
+            "stars": 7917,
             "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
@@ -1942,7 +1970,7 @@
                 "open_issues": 2,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39656,
+                "stars": 39661,
                 "topics": [
                   "agents",
                   "ai",
@@ -1979,7 +2007,7 @@
                 "open_issues": 18,
                 "owner": "lutzroeder",
                 "repo": "netron",
-                "stars": 33421,
+                "stars": 33424,
                 "topics": [
                   "ai",
                   "coreml",
@@ -2013,11 +2041,11 @@
                 "id": 136202695,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T16:11:46Z",
-                "open_issues": 2058,
+                "last_commit": "2026-08-29T13:50:13Z",
+                "open_issues": 2060,
                 "owner": "mlflow",
                 "repo": "mlflow",
-                "stars": 27719,
+                "stars": 27725,
                 "topics": [
                   "agentops",
                   "agents",
@@ -2179,7 +2207,7 @@
                 "open_issues": 141,
                 "owner": "microsoft",
                 "repo": "SynapseML",
-                "stars": 5242,
+                "stars": 5241,
                 "topics": [
                   "ai",
                   "apache-spark",
@@ -2259,7 +2287,7 @@
                 "open_issues": 126,
                 "owner": "polyaxon",
                 "repo": "polyaxon",
-                "stars": 3726,
+                "stars": 3727,
                 "topics": [
                   "agents",
                   "artificial-intelligence",
@@ -2391,7 +2419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:48:43.450Z",
+    "last_updated": "2026-08-29T14:27:48.353Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Earth Science's Artificial Intelligence (AI) tutorials, notebooks, software, datasets, courses, books, video lectures and papers.  Contributions most welcome.",
@@ -2399,8 +2427,8 @@
       "id": 287369884,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-06-26T03:43:57Z",
-      "open_issues": 1,
+      "last_commit": "2026-08-29T06:06:32Z",
+      "open_issues": 0,
       "owner": "ESIPFed",
       "repo": "Awesome-Earth-Artificial-Intelligence",
       "stars": 250,
@@ -2422,7 +2450,7 @@
         "volcano"
       ]
     },
-    "original_repository_sha": "5d083e475e5aee531407c48e95fa7103662071aa",
+    "original_repository_sha": "c797e6ac33bd76978dfef23aba5764a71540d2ae",
     "enhanced_repository": "enhansome/enhansome-Awesome-Earth-Artificial-Intelligence",
     "enhanced_repository_description": null,
     "title": "Awesome-Earth-Artificial-Intelligence with stars"
