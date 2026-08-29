@@ -10,12 +10,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⛔️ DEPRECATED – See https://github.com/ageron/handson-ml3 or handson-mlp instead.",
+            "homepage": null,
             "id": 51863547,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-19T23:03:15Z",
+            "open_issues": 145,
             "owner": "ageron",
             "repo": "handson-ml",
-            "stars": 25598
+            "stars": 25598,
+            "topics": [
+              "deep-learning",
+              "deprecated",
+              "distributed",
+              "jupyter-notebook",
+              "machine-learning",
+              "ml",
+              "neural-network",
+              "python",
+              "scikit-learn",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -26,12 +42,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VIP cheatsheets for Stanford's CS 229 Machine Learning",
+            "homepage": "https://stanford.edu/~shervine/teaching/cs-229",
             "id": 143568533,
             "language": null,
+            "license": "MIT",
             "last_commit": "2020-05-20T04:57:25Z",
+            "open_issues": 20,
             "owner": "afshinea",
             "repo": "stanford-cs-229-machine-learning",
-            "stars": 20164
+            "stars": 20163,
+            "topics": [
+              "cheatsheet",
+              "cs229",
+              "data-science",
+              "deep-learning",
+              "machine-learning",
+              "ml-cheatsheet",
+              "supervised-learning",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -42,12 +72,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 260263542,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2021-06-10T17:21:10Z",
+            "open_issues": 1,
             "owner": "NCAR",
             "repo": "ai4ess-hackathon-2020",
-            "stars": 109
+            "stars": 109,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -58,12 +93,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Machine Learning for Earth Observation Training of Trainers Bootcamp",
+            "homepage": null,
             "id": 356345720,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2021-11-17T20:56:49Z",
+            "open_issues": 0,
             "owner": "radiantearth",
             "repo": "ml4eo-bootcamp-2021",
-            "stars": 103
+            "stars": 103,
+            "topics": [
+              "machine-learning",
+              "remote-sensing",
+              "satellite-imagery"
+            ]
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -74,12 +118,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-access book on GeoAI",
+            "homepage": "https://book.opengeoai.org",
             "id": 1100969729,
             "language": "Jupyter Notebook",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-25T15:44:23Z",
+            "open_issues": 0,
             "owner": "giswqs",
             "repo": "GeoAI-Book",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "geoai",
+              "open-source",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -90,12 +143,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Notebooks for workshop",
+            "homepage": null,
             "id": 344157817,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2021-06-03T11:14:24Z",
+            "open_issues": 0,
             "owner": "NASA-IMPACT",
             "repo": "workshop_notebooks",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         }
@@ -112,12 +170,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data",
+            "homepage": "https://torchgeo.org/",
             "id": 369428935,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T20:14:22Z",
+            "open_issues": 210,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4162
+            "stars": 4162,
+            "topics": [
+              "computer-vision",
+              "datasets",
+              "deep-learning",
+              "earth-observation",
+              "geospatial",
+              "models",
+              "pytorch",
+              "remote-sensing",
+              "satellite-imagery",
+              "torchvision",
+              "transforms"
+            ]
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -128,12 +203,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python package for segmenting geospatial data with the Segment Anything Model (SAM)",
+            "homepage": "https://samgeo.gishub.org",
             "id": 629789089,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T20:37:32Z",
+            "open_issues": 6,
             "owner": "opengeos",
             "repo": "segment-geospatial",
-            "stars": 4124
+            "stars": 4125,
+            "topics": [
+              "artificial-intelligence",
+              "deep-learning",
+              "geopython",
+              "geospatial",
+              "machine-learning",
+              "segment-anything",
+              "segmentation"
+            ]
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -144,12 +232,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GeoAI: Artificial Intelligence for Geospatial Data",
+            "homepage": "https://opengeoai.org",
             "id": 677526746,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T03:04:38Z",
+            "open_issues": 8,
             "owner": "opengeos",
             "repo": "geoai",
-            "stars": 3332
+            "stars": 3332,
+            "topics": [
+              "ai",
+              "data-science",
+              "deep-learning",
+              "earth-observation",
+              "geoai",
+              "geopython",
+              "geospatial",
+              "jupyter",
+              "python",
+              "pytorch",
+              "remote-sensing",
+              "segmentation"
+            ]
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -160,12 +266,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Earth observation processing framework for machine learning in Python",
+            "homepage": "https://eo-learn.readthedocs.io/en/latest/",
             "id": 135559956,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-15T07:25:25Z",
+            "open_issues": 7,
             "owner": "sentinel-hub",
             "repo": "eo-learn",
-            "stars": 1247
+            "stars": 1247,
+            "topics": [
+              "eo-data",
+              "eo-research",
+              "machine-learning",
+              "python-package"
+            ]
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -176,12 +292,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python toolkit for fine-tuning Geospatial Foundation Models (GFMs).",
+            "homepage": "https://torchgeo.github.io/terratorch/",
             "id": 801016442,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T07:04:47Z",
+            "open_issues": 50,
             "owner": "torchgeo",
             "repo": "terratorch",
-            "stars": 852
+            "stars": 852,
+            "topics": [
+              "ai4good",
+              "ai4science",
+              "computer-vision",
+              "deep-learning",
+              "earth-observation",
+              "foundation-models",
+              "geospatial",
+              "solar-physics",
+              "weather-models"
+            ]
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -192,12 +323,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Differentiable signal processing on the sphere for PyTorch",
+            "homepage": null,
             "id": 587447959,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T16:10:14Z",
+            "open_issues": 6,
             "owner": "NVIDIA",
             "repo": "torch-harmonics",
-            "stars": 697
+            "stars": 697,
+            "topics": [
+              "machine-learning",
+              "pytorch",
+              "signal-processing",
+              "sphere"
+            ]
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -208,12 +349,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A benchmark for the next generation of data-driven global weather models.",
+            "homepage": "https://weatherbench2.readthedocs.io",
             "id": 605966592,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-01T21:36:12Z",
+            "open_issues": 85,
             "owner": "google-research",
             "repo": "weatherbench2",
-            "stars": 632
+            "stars": 632,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -224,12 +370,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run AI-based weather forecasting models with ECMWF data",
+            "homepage": null,
             "id": 639741520,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-06T17:46:28Z",
+            "open_issues": 7,
             "owner": "ecmwf-lab",
             "repo": "ai-models",
-            "stars": 585
+            "stars": 585,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -240,12 +391,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SeisBench - A toolbox for machine learning in seismology",
+            "homepage": null,
             "id": 312332587,
             "language": "Jupyter Notebook",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-19T09:17:43Z",
+            "open_issues": 22,
             "owner": "seisbench",
             "repo": "seisbench",
-            "stars": 414
+            "stars": 414,
+            "topics": [
+              "deep-learning",
+              "machine-learning",
+              "python",
+              "science",
+              "seismology"
+            ]
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -256,12 +418,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Massively parallel training of machine-learning based weather and climate models",
+            "homepage": null,
             "id": 696782184,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T07:49:41Z",
+            "open_issues": 2,
             "owner": "NVIDIA",
             "repo": "makani",
-            "stars": 398
+            "stars": 398,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -272,12 +439,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code for ClimateLearn",
+            "homepage": null,
             "id": 533651942,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-03-16T00:32:13Z",
+            "open_issues": 9,
             "owner": "aditya-grover",
             "repo": "climate-learn",
-            "stars": 354
+            "stars": 354,
+            "topics": [
+              "climate-change",
+              "climate-science",
+              "deep-learning",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -288,12 +465,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Distributed Xarray with Apache Beam",
+            "homepage": "https://xarray-beam.readthedocs.io",
             "id": 366509361,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-06T08:40:04Z",
+            "open_issues": 22,
             "owner": "google",
             "repo": "xarray-beam",
-            "stars": 170
+            "stars": 170,
+            "topics": [
+              "beam",
+              "dask",
+              "xarray",
+              "zarr"
+            ]
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -304,12 +491,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Tools for working with machine learning in earth science",
+            "homepage": "https://earthml.holoviz.org",
             "id": 130367373,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-03-18T14:47:57Z",
+            "open_issues": 11,
             "owner": "holoviz-topics",
             "repo": "EarthML",
-            "stars": 95
+            "stars": 95,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -320,12 +512,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The AI for Earth API Platform is a distributed infrastructure designed to provide a secure, scalable, and customizable API hosting, designed to handle the needs of long-running/asynchronous machine learning model inference. It is to be used with the AI For Earth API Framework (https://github.com/microsoft/AIforEarth-API-Development).",
+            "homepage": null,
             "id": 177653792,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2022-08-01T20:32:19Z",
+            "open_issues": 1,
             "owner": "microsoft",
             "repo": "AIforEarth-API-Platform",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "aiforearth"
+            ]
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -336,12 +535,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for GEO-Bench V2 datasets. Made in collaboration with TUM, IBM and ServiceNow.",
+            "homepage": "https://the-ai-alliance.github.io/GEO-Bench-2/",
             "id": 796883566,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-20T18:14:38Z",
+            "open_issues": 12,
             "owner": "The-AI-Alliance",
             "repo": "GEO-Bench-2",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -352,12 +556,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This package is a Python wrapper of the GeoWeaver app which was written in Java. This package is designed for Python users to be able to directly use Geoweaver in Python console, Python IDE, Jupyter notebook, etc.",
+            "homepage": "https://pygeoweaver.readthedocs.io/en/latest/",
             "id": 619011541,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T03:52:24Z",
+            "open_issues": 13,
             "owner": "ESIPFed",
             "repo": "pygeoweaver",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "geoweaver",
+              "python",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -368,12 +581,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GaugeCam Remote Image Manager v2 (hydrology research tool)",
+            "homepage": null,
             "id": 336839288,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-11T20:20:46Z",
+            "open_issues": 1,
             "owner": "gaugecam-dev",
             "repo": "GRIME2",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -384,12 +602,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://grime-lab.github.io/GRIME-AI/",
             "id": 917968665,
             "language": "Python",
-            "last_commit": "2026-08-28T20:45:19Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:51:37Z",
+            "open_issues": 0,
             "owner": "GRIME-Lab",
             "repo": "GRIME-AI",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         }
@@ -408,12 +631,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Clay Foundation Model - An open source AI model and interface for Earth",
+                "homepage": "https://clay-foundation.github.io/model/",
                 "id": 698210830,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-11T05:02:56Z",
+                "open_issues": 40,
                 "owner": "Clay-foundation",
                 "repo": "model",
-                "stars": 610
+                "stars": 610,
+                "topics": [
+                  "digital-elevation-model",
+                  "earth-observation",
+                  "embeddings",
+                  "foundation-model",
+                  "sentinel-1",
+                  "sentinel-2"
+                ]
               },
               "first_seen": "2026-08-28T20:50:30.123Z"
             },
@@ -424,12 +659,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TerraMind is the first any-to-any generative foundation model for Earth Observation, built by IBM and ESA.",
+                "homepage": null,
                 "id": 969483295,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T00:39:55Z",
+                "open_issues": 17,
                 "owner": "IBM",
                 "repo": "terramind",
-                "stars": 314
+                "stars": 314,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:50:30.123Z"
             },
@@ -440,12 +680,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains details of the release of the Prithvi-EO-2.0 foundation model.",
+                "homepage": null,
                 "id": 892392769,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-02-13T11:11:23Z",
+                "open_issues": 10,
                 "owner": "NASA-IMPACT",
                 "repo": "Prithvi-EO-2.0",
-                "stars": 296
+                "stars": 296,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:50:30.123Z"
             },
@@ -456,12 +701,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for Neural Plasticity-Inspired Foundation Model for Observing the Earth Crossing Modalities",
+                "homepage": null,
                 "id": 775866179,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-07-22T10:46:18Z",
+                "open_issues": 6,
                 "owner": "zhu-xlab",
                 "repo": "DOFA",
-                "stars": 208
+                "stars": 208,
+                "topics": [
+                  "earth-observation",
+                  "earth-science",
+                  "foundation-models",
+                  "geospatial",
+                  "multimodal-deep-learning",
+                  "remote-sensing"
+                ]
               },
               "first_seen": "2026-08-28T20:50:30.123Z"
             },
@@ -472,12 +729,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Towards a Unified Copernicus Foundation Model for Earth Vision",
+                "homepage": null,
                 "id": 948371619,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-02T15:44:30Z",
+                "open_issues": 4,
                 "owner": "zhu-xlab",
                 "repo": "Copernicus-FM",
-                "stars": 149
+                "stars": 149,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:50:30.123Z"
             }
@@ -495,12 +757,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 666376652,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-11T12:29:00Z",
+                "open_issues": 77,
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7605
+                "stars": 7606,
+                "topics": [
+                  "weather",
+                  "weather-forecast"
+                ]
               },
               "first_seen": "2026-08-28T20:50:30.123Z"
             },
@@ -511,12 +781,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of the Aurora model for Earth system forecasting",
+                "homepage": "https://microsoft.github.io/aurora",
                 "id": 828987595,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-19T20:14:02Z",
+                "open_issues": 69,
                 "owner": "microsoft",
                 "repo": "aurora",
-                "stars": 1014
+                "stars": 1014,
+                "topics": [
+                  "atmospheric-chemistry",
+                  "aurora-model",
+                  "deep-learning",
+                  "foundation-models",
+                  "ocean-waves",
+                  "tropical-cyclone-tracking",
+                  "weather-prediction"
+                ]
               },
               "first_seen": "2026-08-28T20:50:30.123Z"
             },
@@ -527,12 +810,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hybrid ML + physics model of the Earth's atmosphere",
+                "homepage": "https://neuralgcm.readthedocs.io",
                 "id": 753181435,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-14T16:05:06Z",
+                "open_issues": 67,
                 "owner": "neuralgcm",
                 "repo": "neuralgcm",
-                "stars": 1008
+                "stars": 1008,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:50:30.123Z"
             },
@@ -543,12 +831,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of the Prithvi WxC Foundation Model and Downstream Tasks",
+                "homepage": null,
                 "id": 849978617,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-02-05T13:14:14Z",
+                "open_issues": 11,
                 "owner": "NASA-IMPACT",
                 "repo": "Prithvi-WxC",
-                "stars": 200
+                "stars": 200,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:50:30.123Z"
             }
@@ -570,12 +863,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Essential Cheat Sheets for deep learning and machine learning researchers https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5",
+            "homepage": "https://aicheatsheets.com",
             "id": 92287968,
             "language": null,
+            "license": "MIT",
             "last_commit": "2019-10-19T12:33:06Z",
+            "open_issues": 12,
             "owner": "kailashahirwar",
             "repo": "cheatsheets-ai",
-            "stars": 15428
+            "stars": 15429,
+            "topics": [
+              "artificial-intelligence",
+              "deep-learning",
+              "keras",
+              "machine-learning",
+              "matplotlib",
+              "numpy",
+              "scipy"
+            ]
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -586,12 +892,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":earth_americas: machine learning tutorials (mainly in Python3) ",
+            "homepage": null,
             "id": 39610055,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-07-10T18:45:47Z",
+            "open_issues": 6,
             "owner": "ethen8181",
             "repo": "machine-learning",
-            "stars": 3498
+            "stars": 3498,
+            "topics": [
+              "data-science",
+              "deep-learning",
+              "jupyter-notebook",
+              "machine-learning",
+              "python",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -602,12 +920,32 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Tutorial demonstrating how to create a semantic segmentation (pixel-level classification) model to predict land cover from aerial imagery. This model can be used to identify newly developed or flooded land. Uses ground-truth labels and processed NAIP imagery provided by the Chesapeake Conservancy.",
+            "homepage": null,
             "id": 117909333,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2019-07-25T03:53:29Z",
+            "open_issues": 4,
             "owner": "Azure",
             "repo": "pixel_level_land_classification",
-            "stars": 281
+            "stars": 281,
+            "topics": [
+              "azure-batchai",
+              "azure-storage",
+              "cntk",
+              "cntk-model",
+              "geospatial-analysis",
+              "geospatial-data",
+              "image-classification",
+              "image-segmentation",
+              "land-cover",
+              "land-use",
+              "microsoft",
+              "microsoft-azure",
+              "microsoft-machine-learning",
+              "neural-networks"
+            ]
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -618,12 +956,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Machine Learning for Development: A method to Learn and Identify Earth Features from Satellite Images",
+            "homepage": null,
             "id": 49077518,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2017-08-10T20:26:09Z",
+            "open_issues": 0,
             "owner": "worldbank",
             "repo": "ml4dev",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -634,12 +977,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-access book on GeoAI",
+            "homepage": "https://book.opengeoai.org",
             "id": 1100969729,
             "language": "Jupyter Notebook",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-25T15:44:23Z",
+            "open_issues": 0,
             "owner": "giswqs",
             "repo": "GeoAI-Book",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "geoai",
+              "open-source",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -650,12 +1002,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bridging Earth Observation data and Machine Learning in Python",
+            "homepage": null,
             "id": 208091990,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2022-08-22T16:18:13Z",
+            "open_issues": 4,
             "owner": "sentinel-hub",
             "repo": "eo-learn-workshop",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -666,12 +1023,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The repo contains the source code, notebooks, and technical resources that assist students to read the book Artificial Intelligence in Earth Science. ",
+            "homepage": null,
             "id": 536380108,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-07-25T14:19:30Z",
+            "open_issues": 1,
             "owner": "earth-artificial-intelligence",
             "repo": "earth_ai_book_materials",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "data-science",
+              "earth-science",
+              "machine-learning",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -682,12 +1049,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Can we use Planet high-resolution imagery and machine learning to assess snow cover?",
+            "homepage": "https://planet-snowcover.readthedocs.io/en/latest/",
             "id": 118838597,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2021-12-03T20:33:39Z",
+            "open_issues": 7,
             "owner": "acannistra",
             "repo": "planet-snowcover",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "cloud-native",
+              "computer-vision",
+              "planet-labs"
+            ]
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -698,12 +1074,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Intro to Machine Learning and Deep Learning for Earth-Life Sciences",
+            "homepage": null,
             "id": 192028436,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2019-06-29T08:35:30Z",
+            "open_issues": 0,
             "owner": "Machine-Learning-Tokyo",
             "repo": "ELSI-DL-Bootcamp",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -714,12 +1095,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Water Hackweek Machine Learning workshop",
+            "homepage": null,
             "id": 292366828,
             "language": "Jupyter Notebook",
+            "license": "CC0-1.0",
             "last_commit": "2020-11-24T00:02:43Z",
+            "open_issues": 0,
             "owner": "waterhackweek",
             "repo": "whw2020_machine_learning",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         }
@@ -736,12 +1122,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🛰️ List of satellite image training datasets with annotations for computer vision and deep learning",
+            "homepage": null,
             "id": 131768562,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-07-14T18:02:46Z",
+            "open_issues": 0,
             "owner": "chrieke",
             "repo": "awesome-satellite-imagery-datasets",
-            "stars": 3914
+            "stars": 3914,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "earth-observation",
+              "instance-segmentation",
+              "machine-learning",
+              "object-detection",
+              "remote-sensing",
+              "satellite-imagery"
+            ]
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -752,12 +1152,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A benchmark for the next generation of data-driven global weather models.",
+            "homepage": "https://weatherbench2.readthedocs.io",
             "id": 605966592,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-01T21:36:12Z",
+            "open_issues": 85,
             "owner": "google-research",
             "repo": "weatherbench2",
-            "stars": 632
+            "stars": 632,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -768,12 +1173,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EuroSAT: Land Use and Land Cover Classification with Sentinel-2",
+            "homepage": null,
             "id": 162766976,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-03-09T11:53:50Z",
+            "open_issues": 0,
             "owner": "phelber",
             "repo": "EuroSAT",
-            "stars": 573
+            "stars": 573,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -784,12 +1194,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "STanford EArthquake Dataset (STEAD):A Global Data Set of Seismic Signals for AI",
+            "homepage": null,
             "id": 180492532,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2023-07-07T23:46:55Z",
+            "open_issues": 3,
             "owner": "smousavi05",
             "repo": "STEAD",
-            "stars": 405
+            "stars": 405,
+            "topics": [
+              "dataset",
+              "deep-learning",
+              "earthquake",
+              "stanford",
+              "stead"
+            ]
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -800,12 +1221,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Towards a Unified Copernicus Foundation Model for Earth Vision",
+            "homepage": null,
             "id": 948371619,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2025-10-02T15:44:30Z",
+            "open_issues": 4,
             "owner": "zhu-xlab",
             "repo": "Copernicus-FM",
-            "stars": 149
+            "stars": 149,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -816,12 +1242,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for GEO-Bench V2 datasets. Made in collaboration with TUM, IBM and ServiceNow.",
+            "homepage": "https://the-ai-alliance.github.io/GEO-Bench-2/",
             "id": 796883566,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-20T18:14:38Z",
+            "open_issues": 12,
             "owner": "The-AI-Alliance",
             "repo": "GEO-Bench-2",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         }
@@ -838,12 +1269,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2024 🔥] GeoChat, the first grounded Large Vision Language Model for Remote Sensing",
+            "homepage": "https://mbzuai-oryx.github.io/GeoChat",
             "id": 722562594,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-11-28T12:05:13Z",
+            "open_issues": 47,
             "owner": "mbzuai-oryx",
             "repo": "GeoChat",
-            "stars": 744
+            "stars": 744,
+            "topics": [
+              "remote-sensing",
+              "vlm"
+            ]
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -854,12 +1293,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EQTransformer, a python package for earthquake signal detection and phase picking using AI.",
+            "homepage": "https://rebrand.ly/EQT-documentations",
             "id": 246486004,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-13T18:59:21Z",
+            "open_issues": 43,
             "owner": "smousavi05",
             "repo": "EQTransformer",
-            "stars": 416
+            "stars": 416,
+            "topics": [
+              "attention-mechanism",
+              "deep-learning",
+              "detection",
+              "earthquakes",
+              "global",
+              "lstm-neural-networks",
+              "multi-task-learning",
+              "neural-network",
+              "phase-picking",
+              "stead",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -870,12 +1326,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code for TEOChat, the first vision-language assistant for temporal earth observation data (ICLR 2025).",
+            "homepage": "https://arxiv.org/abs/2410.06234",
             "id": 867805986,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-01T21:50:17Z",
+            "open_issues": 7,
             "owner": "ermongroup",
             "repo": "TEOChat",
-            "stars": 150
+            "stars": 150,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -886,12 +1347,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2025 🔥] EarthDial: Turning Multi-Sensory Earth Observations to Interactive Dialogues.",
+            "homepage": null,
             "id": 935879185,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-20T09:44:34Z",
+            "open_issues": 10,
             "owner": "hiyamdebary",
             "repo": "EarthDial",
-            "stars": 139
+            "stars": 139,
+            "topics": [
+              "foundation-models",
+              "large-multimodal-models",
+              "large-vision-language-models",
+              "remote-sensing"
+            ]
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -902,12 +1373,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-temporal land cover classification. Source code and evaluation of IJGI 2018 journal publication",
+            "homepage": null,
             "id": 117371450,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2021-11-19T09:12:43Z",
+            "open_issues": 4,
             "owner": "MarcCoru",
             "repo": "MTLCC",
-            "stars": 114
+            "stars": 114,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -918,12 +1394,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Algorithm developed for Continuous Change Detection and Classification (CCDC) of land cover using all available Landsat data.",
+            "homepage": null,
             "id": 134100153,
             "language": "MATLAB",
+            "license": "MIT",
             "last_commit": "2024-10-30T02:30:36Z",
+            "open_issues": 2,
             "owner": "GERSL",
             "repo": "CCDC",
-            "stars": 107
+            "stars": 107,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -934,12 +1415,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Algorithm developed for Continuous Change Detection and Classification (CCDC) of land cover using all available Landsat data.",
+            "homepage": null,
             "id": 134100153,
             "language": "MATLAB",
+            "license": "MIT",
             "last_commit": "2024-10-30T02:30:36Z",
+            "open_issues": 2,
             "owner": "GERSL",
             "repo": "CCDC",
-            "stars": 107
+            "stars": 107,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -950,12 +1436,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Band-Adaptive Spectral-Spatial Feature Learning Deep Neural Network for Hyperspectral Image Classification",
+            "homepage": null,
             "id": 75110569,
             "language": "Lua",
+            "license": null,
             "last_commit": "2019-01-27T00:13:39Z",
+            "open_issues": 1,
             "owner": "manila95",
             "repo": "BASS-Net",
-            "stars": 68
+            "stars": 68,
+            "topics": [
+              "bass-net",
+              "computer-vision",
+              "deep-neural-networks",
+              "hyperspectral-images",
+              "landcover-classification"
+            ]
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -966,12 +1463,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LANDSAT Time Series Analysis for Multi-temporal Land Cover Classification using Machine Learning techniques in Python and GUI development for automation of the process.",
+            "homepage": null,
             "id": 140582549,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-02-08T07:56:56Z",
+            "open_issues": 0,
             "owner": "agr-ayush",
             "repo": "Landsat-Time-Series-Analysis-for-Multi-Temporal-Land-Cover-Classification",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "land-cover",
+              "machine-learning",
+              "python",
+              "random-forest",
+              "time-series-analysis",
+              "tkinter-gui"
+            ]
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -982,12 +1491,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy emulating of geophysical models including (but not limited to!) Earth System Models.",
+            "homepage": null,
             "id": 216659677,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-03-10T17:14:08Z",
+            "open_issues": 6,
             "owner": "duncanwp",
             "repo": "ESEm",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "climate",
+              "emulation",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -998,12 +1516,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Land Cover Classification based on Landsat-8 imagery from Google Earth Engine ",
+            "homepage": null,
             "id": 206399115,
             "language": "HTML",
+            "license": null,
             "last_commit": "2021-04-21T19:30:41Z",
+            "open_issues": 0,
             "owner": "ucalyptus",
             "repo": "EarthEngine-Deep-Learning",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -1014,12 +1537,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Earth Lens, a Microsoft Garage project is an iOS iPad application that helps people and organizations quickly identify and classify objects in aerial imagery through the power of machine learning.",
+            "homepage": null,
             "id": 144922101,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2019-02-27T18:50:17Z",
+            "open_issues": 0,
             "owner": "microsoft",
             "repo": "Earth-Lens",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -1030,12 +1558,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Winners of the Wind-dependent Variables: Predict Wind Speeds of Tropical Storms competition",
+            "homepage": null,
             "id": 344502141,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-09-07T18:42:00Z",
+            "open_issues": 1,
             "owner": "drivendataorg",
             "repo": "wind-dependent-variables",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -1046,12 +1579,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Microsoft AI for Earth Project: AI Monitoring Coal-fired Power Plant Emission from Space ",
+            "homepage": null,
             "id": 359509615,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2021-09-16T14:51:08Z",
+            "open_issues": 0,
             "owner": "ZihengSun",
             "repo": "EmissionAI",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -1062,12 +1600,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fire weather and wildfire-risk modelling components for British Columbia, built on open data. Reference implementation of the Canadian FWI System plus trained ignition-risk models at 5 km and 1 km.",
+            "homepage": "https://infernis.ca",
             "id": 1160558272,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T19:56:37Z",
+            "open_issues": 0,
             "owner": "argonBIsystems",
             "repo": "infernis",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "british-columbia",
+              "fire-weather",
+              "fwi",
+              "machine-learning",
+              "open-data",
+              "wildfire"
+            ]
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         }
@@ -1084,12 +1634,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74202
+            "stars": 74202,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -1100,12 +1655,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome open source workflow engines",
+            "homepage": null,
             "id": 35958325,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-04-06T08:20:52Z",
+            "open_issues": 71,
             "owner": "meirwah",
             "repo": "awesome-workflow-engines",
-            "stars": 7916
+            "stars": 7916,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -1116,12 +1676,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin",
+            "homepage": null,
             "id": 22013111,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-04T07:45:32Z",
+            "open_issues": 34,
             "owner": "pditommaso",
             "repo": "awesome-pipeline",
-            "stars": 6625
+            "stars": 6625,
+            "topics": [
+              "awesome-list",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -1132,12 +1700,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🛰️ List of satellite image training datasets with annotations for computer vision and deep learning",
+            "homepage": null,
             "id": 131768562,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-07-14T18:02:46Z",
+            "open_issues": 0,
             "owner": "chrieke",
             "repo": "awesome-satellite-imagery-datasets",
-            "stars": 3914
+            "stars": 3914,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "earth-observation",
+              "instance-segmentation",
+              "machine-learning",
+              "object-detection",
+              "remote-sensing",
+              "satellite-imagery"
+            ]
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -1148,12 +1730,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome",
+            "homepage": null,
             "id": 107413465,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-05-26T11:55:08Z",
+            "open_issues": 11,
             "owner": "softwareunderground",
             "repo": "awesome-open-geoscience",
-            "stars": 1825
+            "stars": 1826,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "cheatsheet",
+              "geochemistry",
+              "geology",
+              "geophysics",
+              "geoscience",
+              "geosciences",
+              "geospatial",
+              "geostatistics",
+              "groundwater",
+              "modflow",
+              "open-data",
+              "open-science",
+              "open-source",
+              "python",
+              "reservoir-modeling",
+              "seismic",
+              "simulation",
+              "subsurface"
+            ]
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -1164,12 +1772,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Open Atmospheric, Ocean, and Climate Science ",
+            "homepage": null,
             "id": 177848340,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-11-12T14:32:13Z",
+            "open_issues": 17,
             "owner": "pangeo-data",
             "repo": "awesome-open-climate-science",
-            "stars": 596
+            "stars": 596,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -1180,12 +1793,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of awesome spatial repositories.",
+            "homepage": "http://robodonut.github.io/awesome-spatial/",
             "id": 44335930,
             "language": null,
+            "license": null,
             "last_commit": "2018-01-04T14:42:48Z",
+            "open_issues": 101,
             "owner": "RoboDonut",
             "repo": "awesome-spatial",
-            "stars": 222
+            "stars": 222,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -1196,12 +1814,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌦️ A catalogue and categorization of AI-based weather forecasting models. ",
+            "homepage": null,
             "id": 849803706,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-05-10T18:14:25Z",
+            "open_issues": 3,
             "owner": "rebase-energy",
             "repo": "awesome-weather-models",
-            "stars": 148
+            "stars": 148,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -1212,12 +1835,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome resources for coastal engineers and scientists",
+            "homepage": null,
             "id": 185494077,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-28T08:20:15Z",
+            "open_issues": 3,
             "owner": "chrisleaman",
             "repo": "awesome-coastal",
-            "stars": 115
+            "stars": 115,
+            "topics": [
+              "awesome",
+              "beaches",
+              "coastal",
+              "coastal-engineering",
+              "coastal-modelling"
+            ]
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -1228,12 +1862,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome paper about AI for atmosphere science and oceanography",
+            "homepage": null,
             "id": 676017524,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-10-04T09:07:57Z",
+            "open_issues": 0,
             "owner": "XiongWeiTHU",
             "repo": "Awesome-AI-for-Atmosphere-and-Ocean",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -1244,12 +1883,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome resources related to using AI for weather forecasting and climate modeling.",
+            "homepage": null,
             "id": 677618008,
             "language": null,
+            "license": null,
             "last_commit": "2025-03-01T14:00:42Z",
+            "open_issues": 0,
             "owner": "HeQinWill",
             "repo": "awesome-WeatherAI",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -1260,12 +1904,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome-AI4Earth: a curated list of machine learning in Earth System, especially for weather and climate.",
+            "homepage": null,
             "id": 715541538,
             "language": null,
+            "license": null,
             "last_commit": "2023-12-27T10:56:58Z",
+            "open_issues": 0,
             "owner": "taohan10200",
             "repo": "Awesome_AI4Earth",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "data-assimilation",
+              "downscaling",
+              "larger-weather-models",
+              "numerical-weather-prediction",
+              "precipitation"
+            ]
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -1278,12 +1933,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The unified workspace where open-source models get things done for you.",
+                "homepage": "https://mindshub.ai",
                 "id": 143328315,
                 "language": "Makefile",
+                "license": "MIT",
                 "last_commit": "2026-08-21T23:50:38Z",
+                "open_issues": 2,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39656
+                "stars": 39656,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "anton",
+                  "artificial-inteligence",
+                  "claude",
+                  "claude-cowork",
+                  "codex",
+                  "cowork",
+                  "deepseek",
+                  "glm",
+                  "hermes",
+                  "hermes-agent",
+                  "kimi",
+                  "mcp",
+                  "mindsdb"
+                ]
               },
               "first_seen": "2026-08-28T20:50:30.123Z"
             },
@@ -1294,12 +1970,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visualizer for neural network, deep learning and machine learning models",
+                "homepage": "https://netron.app",
                 "id": 1198539,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T17:15:34Z",
+                "open_issues": 18,
                 "owner": "lutzroeder",
                 "repo": "netron",
-                "stars": 33420
+                "stars": 33421,
+                "topics": [
+                  "ai",
+                  "coreml",
+                  "deep-learning",
+                  "deeplearning",
+                  "keras",
+                  "machine-learning",
+                  "machinelearning",
+                  "ml",
+                  "neural-network",
+                  "numpy",
+                  "onnx",
+                  "pytorch",
+                  "safetensors",
+                  "tensorflow",
+                  "tensorflow-lite",
+                  "visualizer"
+                ]
               },
               "first_seen": "2026-08-28T20:50:30.123Z"
             },
@@ -1310,12 +2008,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.",
+                "homepage": "https://mlflow.org",
                 "id": 136202695,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T16:11:46Z",
+                "open_issues": 2058,
                 "owner": "mlflow",
                 "repo": "mlflow",
-                "stars": 27713
+                "stars": 27719,
+                "topics": [
+                  "agentops",
+                  "agents",
+                  "ai",
+                  "ai-governance",
+                  "apache-spark",
+                  "evaluation",
+                  "langchain",
+                  "llm-evaluation",
+                  "llmops",
+                  "machine-learning",
+                  "ml",
+                  "mlflow",
+                  "mlops",
+                  "model-management",
+                  "observability",
+                  "open-source",
+                  "openai",
+                  "prompt-engineering"
+                ]
               },
               "first_seen": "2026-08-28T20:50:30.123Z"
             },
@@ -1326,12 +2048,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dopamine is a research framework for fast prototyping of reinforcement learning algorithms. ",
+                "homepage": "https://github.com/google/dopamine",
                 "id": 142422739,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-24T18:11:40Z",
+                "open_issues": 111,
                 "owner": "google",
                 "repo": "dopamine",
-                "stars": 10901
+                "stars": 10901,
+                "topics": [
+                  "ai",
+                  "google",
+                  "ml",
+                  "rl",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T20:50:30.123Z"
             },
@@ -1342,12 +2075,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.",
+                "homepage": "http://www.oneflow.org",
                 "id": 81634683,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-04T01:29:28Z",
+                "open_issues": 645,
                 "owner": "Oneflow-Inc",
                 "repo": "oneflow",
-                "stars": 9428
+                "stars": 9428,
+                "topics": [
+                  "cuda",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "distributed",
+                  "machine-learning",
+                  "ml",
+                  "neural-network"
+                ]
               },
               "first_seen": "2026-08-28T20:50:30.123Z"
             },
@@ -1358,12 +2104,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!",
+                "homepage": "https://bentoml.com",
                 "id": 178976529,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T09:19:45Z",
+                "open_issues": 209,
                 "owner": "bentoml",
                 "repo": "BentoML",
-                "stars": 8813
+                "stars": 8813,
+                "topics": [
+                  "ai-inference",
+                  "deep-learning",
+                  "generative-ai",
+                  "inference-platform",
+                  "llm",
+                  "llm-inference",
+                  "llm-serving",
+                  "llmops",
+                  "machine-learning",
+                  "ml-engineering",
+                  "mlops",
+                  "model-inference-service",
+                  "model-serving",
+                  "multimodal",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T20:50:30.123Z"
             },
@@ -1374,12 +2141,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A C++ standalone library for machine learning",
+                "homepage": "https://fl.readthedocs.io/en/latest/",
                 "id": 161376600,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-06-22T00:07:38Z",
+                "open_issues": 126,
                 "owner": "flashlight",
                 "repo": "flashlight",
-                "stars": 5467
+                "stars": 5467,
+                "topics": [
+                  "autograd",
+                  "cpp",
+                  "deep-learning",
+                  "flashlight",
+                  "machine-learning",
+                  "ml",
+                  "neural-network"
+                ]
               },
               "first_seen": "2026-08-28T20:50:30.123Z"
             },
@@ -1390,12 +2170,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple and Distributed Machine Learning Python Library porting ML algorithms for Spark",
+                "homepage": "http://aka.ms/spark",
                 "id": 93381875,
                 "language": "Scala",
+                "license": "MIT",
                 "last_commit": "2026-08-28T05:43:35Z",
+                "open_issues": 141,
                 "owner": "microsoft",
                 "repo": "SynapseML",
-                "stars": 5242
+                "stars": 5242,
+                "topics": [
+                  "ai",
+                  "apache-spark",
+                  "azure",
+                  "big-data",
+                  "cognitive-services",
+                  "data-science",
+                  "databricks",
+                  "deep-learning",
+                  "http",
+                  "lightgbm",
+                  "machine-learning",
+                  "microsoft",
+                  "ml",
+                  "model-deployment",
+                  "onnx",
+                  "opencv",
+                  "pyspark",
+                  "scala",
+                  "spark",
+                  "synapse"
+                ]
               },
               "first_seen": "2026-08-28T20:50:30.123Z"
             },
@@ -1406,12 +2212,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Snips Python library to extract meaning from text",
+                "homepage": "https://snips-nlu.readthedocs.io",
                 "id": 81349068,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-22T16:10:15Z",
+                "open_issues": 67,
                 "owner": "snipsco",
                 "repo": "snips-nlu",
-                "stars": 3973
+                "stars": 3973,
+                "topics": [
+                  "bot",
+                  "chatbot",
+                  "information-extraction",
+                  "intent-classification",
+                  "intent-parser",
+                  "machine-learning",
+                  "machine-learning-library",
+                  "ml",
+                  "named-entity-recognition",
+                  "ner",
+                  "nlp",
+                  "nlu",
+                  "python",
+                  "slot-filling",
+                  "snips",
+                  "text-classification"
+                ]
               },
               "first_seen": "2026-08-28T20:50:30.123Z"
             },
@@ -1422,12 +2250,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI Infra / AI Orchestration / AI Control Plane",
+                "homepage": "https://polyaxon.com",
                 "id": 77383688,
                 "language": "MDX",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T13:15:50Z",
+                "open_issues": 126,
                 "owner": "polyaxon",
                 "repo": "polyaxon",
-                "stars": 3726
+                "stars": 3726,
+                "topics": [
+                  "agents",
+                  "artificial-intelligence",
+                  "data-science",
+                  "deep-learning",
+                  "harness",
+                  "hyperparameter-optimization",
+                  "jupyter",
+                  "jupyterlab",
+                  "k8s",
+                  "keras",
+                  "kubernetes",
+                  "machine-learning",
+                  "mlops",
+                  "notebook",
+                  "pipelines",
+                  "pytorch",
+                  "reinforcement-learning",
+                  "sandbox",
+                  "tensorflow",
+                  "workflow"
+                ]
               },
               "first_seen": "2026-08-28T20:50:30.123Z"
             },
@@ -1438,12 +2292,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for transfer learning by reusing parts of TensorFlow models.",
+                "homepage": "https://tensorflow.org/hub",
                 "id": 124853261,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-17T12:09:41Z",
+                "open_issues": 5,
                 "owner": "tensorflow",
                 "repo": "hub",
-                "stars": 3524
+                "stars": 3524,
+                "topics": [
+                  "embeddings",
+                  "image-classification",
+                  "machine-learning",
+                  "ml",
+                  "python",
+                  "tensorflow",
+                  "transfer-learning"
+                ]
               },
               "first_seen": "2026-08-28T20:50:30.123Z"
             },
@@ -1454,12 +2321,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Machine learning tools in JavaScript",
+                "homepage": null,
                 "id": 25819289,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-10-21T07:02:43Z",
+                "open_issues": 27,
                 "owner": "mljs",
                 "repo": "ml",
-                "stars": 2717
+                "stars": 2717,
+                "topics": [
+                  "javascript",
+                  "machine-learning",
+                  "ml"
+                ]
               },
               "first_seen": "2026-08-28T20:50:30.123Z"
             },
@@ -1470,12 +2346,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Apache Spark with minimal hand-tuning",
+                "homepage": "https://transmogrif.ai",
                 "id": 109289451,
                 "language": "Scala",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-06-02T18:03:07Z",
+                "open_issues": 46,
                 "owner": "salesforce",
                 "repo": "TransmogrifAI",
-                "stars": 2277
+                "stars": 2277,
+                "topics": [
+                  "ai",
+                  "automated-machine-learning",
+                  "automl",
+                  "dsl",
+                  "einstein",
+                  "estimators",
+                  "feature-engineering",
+                  "features",
+                  "machine-learning",
+                  "ml",
+                  "pipelines",
+                  "salesforce",
+                  "scala",
+                  "spark",
+                  "sparkml",
+                  "structured-data",
+                  "transformations",
+                  "transformers",
+                  "transmogrification",
+                  "transmogrify"
+                ]
               },
               "first_seen": "2026-08-28T20:50:30.123Z"
             }
@@ -1489,15 +2391,36 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:50:30.123Z",
+    "last_updated": "2026-08-29T04:48:43.450Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Earth Science's Artificial Intelligence (AI) tutorials, notebooks, software, datasets, courses, books, video lectures and papers.  Contributions most welcome.",
+      "homepage": null,
       "id": 287369884,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-06-26T03:43:57Z",
+      "open_issues": 1,
       "owner": "ESIPFed",
       "repo": "Awesome-Earth-Artificial-Intelligence",
-      "stars": 250
+      "stars": 250,
+      "topics": [
+        "air-quality",
+        "awesome-list",
+        "biosphere",
+        "datasets",
+        "deep-learning",
+        "dust",
+        "earth-science",
+        "earthquakes",
+        "geosphere",
+        "glacier",
+        "hydrology",
+        "land-cover-classification",
+        "machine-learning",
+        "snow",
+        "volcano"
+      ]
     },
     "original_repository_sha": "5d083e475e5aee531407c48e95fa7103662071aa",
     "enhanced_repository": "enhansome/enhansome-Awesome-Earth-Artificial-Intelligence",
