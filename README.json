@@ -19,7 +19,7 @@
             "open_issues": 145,
             "owner": "ageron",
             "repo": "handson-ml",
-            "stars": 25611,
+            "stars": 25609,
             "topics": [
               "deep-learning",
               "deprecated",
@@ -175,8 +175,8 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-23T13:05:47Z",
-            "open_issues": 214,
+            "last_commit": "2026-09-24T16:34:48Z",
+            "open_issues": 212,
             "owner": "torchgeo",
             "repo": "torchgeo",
             "stars": 4190,
@@ -212,7 +212,7 @@
             "open_issues": 8,
             "owner": "opengeos",
             "repo": "segment-geospatial",
-            "stars": 4148,
+            "stars": 4149,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -237,8 +237,8 @@
             "id": 677526746,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-21T20:44:10Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-25T03:56:38Z",
+            "open_issues": 4,
             "owner": "opengeos",
             "repo": "geoai",
             "stars": 3391,
@@ -297,8 +297,8 @@
             "id": 801016442,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T15:09:28Z",
-            "open_issues": 51,
+            "last_commit": "2026-09-25T14:15:48Z",
+            "open_issues": 50,
             "owner": "torchgeo",
             "repo": "terratorch",
             "stars": 864,
@@ -329,7 +329,7 @@
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
             "last_commit": "2026-09-23T17:33:26Z",
-            "open_issues": 11,
+            "open_issues": 14,
             "owner": "NVIDIA",
             "repo": "torch-harmonics",
             "stars": 704,
@@ -355,7 +355,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-10T10:49:38Z",
-            "open_issues": 89,
+            "open_issues": 90,
             "owner": "google-research",
             "repo": "weatherbench2",
             "stars": 638,
@@ -400,7 +400,7 @@
             "open_issues": 18,
             "owner": "seisbench",
             "repo": "seisbench",
-            "stars": 420,
+            "stars": 421,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -540,7 +540,7 @@
             "id": 1138307131,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-18T16:38:44Z",
+            "last_commit": "2026-09-24T21:45:54Z",
             "open_issues": 0,
             "owner": "TerraLabAI",
             "repo": "QGIS_AI-Segmentation",
@@ -593,7 +593,7 @@
             "open_issues": 12,
             "owner": "ESIPFed",
             "repo": "pygeoweaver",
-            "stars": 17,
+            "stars": 18,
             "topics": [
               "geoweaver",
               "python",
@@ -794,32 +794,11 @@
                 "open_issues": 79,
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7689,
+                "stars": 7691,
                 "topics": [
                   "weather",
                   "weather-forecast"
                 ]
-              },
-              "first_seen": "2026-08-28T20:50:30.123Z"
-            },
-            {
-              "node_type": "item",
-              "title": "NeuralGCM",
-              "description": "dycore paper - Differentiable hybrid general circulation model combining physics-based dynamics with learned components; Apache 2.0 code, CC BY-SA 4.0 weights",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Hybrid ML + physics model of the Earth's atmosphere",
-                "homepage": "https://neuralgcm.readthedocs.io",
-                "id": 753181435,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-09-23T16:06:47Z",
-                "open_issues": 67,
-                "owner": "neuralgcm",
-                "repo": "neuralgcm",
-                "stars": 1019,
-                "topics": []
               },
               "first_seen": "2026-08-28T20:50:30.123Z"
             },
@@ -839,7 +818,7 @@
                 "open_issues": 68,
                 "owner": "microsoft",
                 "repo": "aurora",
-                "stars": 1018,
+                "stars": 1020,
                 "topics": [
                   "atmospheric-chemistry",
                   "aurora-model",
@@ -849,6 +828,27 @@
                   "tropical-cyclone-tracking",
                   "weather-prediction"
                 ]
+              },
+              "first_seen": "2026-08-28T20:50:30.123Z"
+            },
+            {
+              "node_type": "item",
+              "title": "NeuralGCM",
+              "description": "dycore paper - Differentiable hybrid general circulation model combining physics-based dynamics with learned components; Apache 2.0 code, CC BY-SA 4.0 weights",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Hybrid ML + physics model of the Earth's atmosphere",
+                "homepage": "https://neuralgcm.readthedocs.io",
+                "id": 753181435,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-24T20:38:43Z",
+                "open_issues": 68,
+                "owner": "neuralgcm",
+                "repo": "neuralgcm",
+                "stars": 1019,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:50:30.123Z"
             },
@@ -1186,7 +1186,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-10T10:49:38Z",
-            "open_issues": 89,
+            "open_issues": 90,
             "owner": "google-research",
             "repo": "weatherbench2",
             "stars": 638,
@@ -1210,7 +1210,7 @@
             "open_issues": 0,
             "owner": "phelber",
             "repo": "EuroSAT",
-            "stars": 578,
+            "stars": 579,
             "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
@@ -1330,7 +1330,7 @@
             "open_issues": 43,
             "owner": "smousavi05",
             "repo": "EQTransformer",
-            "stars": 417,
+            "stars": 418,
             "topics": [
               "attention-mechanism",
               "deep-learning",
@@ -1384,7 +1384,7 @@
             "open_issues": 10,
             "owner": "hiyamdebary",
             "repo": "EarthDial",
-            "stars": 146,
+            "stars": 147,
             "topics": [
               "foundation-models",
               "large-multimodal-models",
@@ -1671,7 +1671,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74440,
+            "stars": 74449,
             "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
@@ -1692,7 +1692,7 @@
             "open_issues": 73,
             "owner": "meirwah",
             "repo": "awesome-workflow-engines",
-            "stars": 7933,
+            "stars": 7934,
             "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
@@ -1709,7 +1709,7 @@
             "id": 22013111,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-21T14:30:33Z",
+            "last_commit": "2026-09-25T08:06:28Z",
             "open_issues": 33,
             "owner": "pditommaso",
             "repo": "awesome-pipeline",
@@ -1767,7 +1767,7 @@
             "open_issues": 13,
             "owner": "softwareunderground",
             "repo": "awesome-open-geoscience",
-            "stars": 1846,
+            "stars": 1847,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1970,7 +1970,7 @@
                 "open_issues": 6,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39764,
+                "stars": 39770,
                 "topics": [
                   "agents",
                   "ai",
@@ -2003,11 +2003,11 @@
                 "id": 1198539,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-24T03:34:00Z",
+                "last_commit": "2026-09-25T12:46:36Z",
                 "open_issues": 18,
                 "owner": "lutzroeder",
                 "repo": "netron",
-                "stars": 33521,
+                "stars": 33524,
                 "topics": [
                   "ai",
                   "coreml",
@@ -2041,11 +2041,11 @@
                 "id": 136202695,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T14:04:48Z",
-                "open_issues": 2146,
+                "last_commit": "2026-09-25T13:04:16Z",
+                "open_issues": 2137,
                 "owner": "mlflow",
                 "repo": "mlflow",
-                "stars": 28123,
+                "stars": 28135,
                 "topics": [
                   "agentops",
                   "agents",
@@ -2085,7 +2085,7 @@
                 "open_issues": 111,
                 "owner": "google",
                 "repo": "dopamine",
-                "stars": 10914,
+                "stars": 10913,
                 "topics": [
                   "ai",
                   "google",
@@ -2138,10 +2138,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-07T17:43:01Z",
-                "open_issues": 223,
+                "open_issues": 224,
                 "owner": "bentoml",
                 "repo": "BentoML",
-                "stars": 8859,
+                "stars": 8864,
                 "topics": [
                   "ai-inference",
                   "deep-learning",
@@ -2203,11 +2203,11 @@
                 "id": 93381875,
                 "language": "Scala",
                 "license": "MIT",
-                "last_commit": "2026-09-22T23:00:24Z",
+                "last_commit": "2026-09-25T03:59:00Z",
                 "open_issues": 141,
                 "owner": "microsoft",
                 "repo": "SynapseML",
-                "stars": 5247,
+                "stars": 5246,
                 "topics": [
                   "ai",
                   "apache-spark",
@@ -2249,7 +2249,7 @@
                 "open_issues": 67,
                 "owner": "snipsco",
                 "repo": "snips-nlu",
-                "stars": 3973,
+                "stars": 3972,
                 "topics": [
                   "bot",
                   "chatbot",
@@ -2329,7 +2329,7 @@
                 "open_issues": 5,
                 "owner": "tensorflow",
                 "repo": "hub",
-                "stars": 3527,
+                "stars": 3528,
                 "topics": [
                   "embeddings",
                   "image-classification",
@@ -2419,7 +2419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T14:12:19.159Z",
+    "last_updated": "2026-09-25T14:35:56.651Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Earth Science's Artificial Intelligence (AI) tutorials, notebooks, software, datasets, courses, books, video lectures and papers.  Contributions most welcome.",
