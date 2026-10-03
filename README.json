@@ -38,7 +38,7 @@
         {
           "node_type": "item",
           "title": "Stanford CS 229 ML Cheatsheets",
-          "description": null,
+          "description": "afshinea/stanford-cs-229-machine-learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -89,7 +89,7 @@
         {
           "node_type": "item",
           "title": "RadiantEarth ML4EO Bootcamp 2021",
-          "description": null,
+          "description": "radiantearth/ml4eo-bootcamp-2021",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -139,7 +139,7 @@
         {
           "node_type": "item",
           "title": "Summer School on High-Performance and Disruptive Computing in Remote Sensing - Scaling Machine Learning for Remote Sensing using Cloud Computing",
-          "description": null,
+          "description": "NASA-IMPACT/workshop_notebooks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -175,11 +175,11 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T08:14:38Z",
-            "open_issues": 210,
+            "last_commit": "2026-10-02T21:47:25Z",
+            "open_issues": 211,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4192,
+            "stars": 4193,
             "topics": [
               "computer-vision",
               "datasets",
@@ -241,7 +241,7 @@
             "open_issues": 6,
             "owner": "opengeos",
             "repo": "geoai",
-            "stars": 3408,
+            "stars": 3407,
             "topics": [
               "ai",
               "data-science",
@@ -301,7 +301,7 @@
             "open_issues": 50,
             "owner": "torchgeo",
             "repo": "terratorch",
-            "stars": 866,
+            "stars": 867,
             "topics": [
               "ai4good",
               "ai4science",
@@ -540,7 +540,7 @@
             "id": 1138307131,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-28T16:26:13Z",
+            "last_commit": "2026-10-02T17:00:56Z",
             "open_issues": 0,
             "owner": "TerraLabAI",
             "repo": "QGIS_AI-Segmentation",
@@ -646,7 +646,7 @@
             "id": 917968665,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T14:05:07Z",
+            "last_commit": "2026-10-03T03:10:08Z",
             "open_issues": 0,
             "owner": "GRIME-Lab",
             "repo": "GRIME-AI",
@@ -728,7 +728,7 @@
                 "open_issues": 10,
                 "owner": "NASA-IMPACT",
                 "repo": "Prithvi-EO-2.0",
-                "stars": 319,
+                "stars": 320,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:50:30.123Z"
@@ -927,7 +927,7 @@
         {
           "node_type": "item",
           "title": "Machine Learning Tutorials (general, not Earth science specific)",
-          "description": null,
+          "description": "ethen8181/machine-learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -955,7 +955,7 @@
         {
           "node_type": "item",
           "title": "Pixel-level land cover classification",
-          "description": null,
+          "description": "Azure/pixel_level_land_classification",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1058,7 +1058,7 @@
         {
           "node_type": "item",
           "title": ":sunglasses::sparkling_heart: Artificial Intelligence in Earth science Book Materials",
-          "description": null,
+          "description": "earth-artificial-intelligence/earth_ai_book_materials",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1498,7 +1498,7 @@
         {
           "node_type": "item",
           "title": "Landsat Time Series Analysis for Multi-Temporal Land Cover Classification",
-          "description": null,
+          "description": "agr-ayush/Landsat-Time-Series-Analysis-for-Multi-Temporal-Land-Cover-Classification",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1700,10 +1700,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-09-21T10:34:17Z",
-            "open_issues": 74,
+            "open_issues": 75,
             "owner": "meirwah",
             "repo": "awesome-workflow-engines",
-            "stars": 7940,
+            "stars": 7941,
             "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
@@ -1820,7 +1820,7 @@
             "open_issues": 17,
             "owner": "pangeo-data",
             "repo": "awesome-open-climate-science",
-            "stars": 601,
+            "stars": 602,
             "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
@@ -1981,7 +1981,7 @@
                 "open_issues": 6,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39776,
+                "stars": 39779,
                 "topics": [
                   "agents",
                   "ai",
@@ -2052,11 +2052,11 @@
                 "id": 136202695,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T15:06:27Z",
-                "open_issues": 2149,
+                "last_commit": "2026-10-03T04:09:23Z",
+                "open_issues": 2153,
                 "owner": "mlflow",
                 "repo": "mlflow",
-                "stars": 28233,
+                "stars": 28239,
                 "topics": [
                   "agentops",
                   "agents",
@@ -2430,7 +2430,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:47:45.140Z",
+    "last_updated": "2026-10-03T04:24:36.730Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Earth Science's Artificial Intelligence (AI) tutorials, notebooks, software, datasets, courses, books, video lectures and papers.  Contributions most welcome.",
