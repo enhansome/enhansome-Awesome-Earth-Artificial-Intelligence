@@ -51,7 +51,7 @@
             "open_issues": 21,
             "owner": "afshinea",
             "repo": "stanford-cs-229-machine-learning",
-            "stars": 20285,
+            "stars": 20289,
             "topics": [
               "cheatsheet",
               "cs229",
@@ -127,7 +127,7 @@
             "open_issues": 0,
             "owner": "giswqs",
             "repo": "GeoAI-Book",
-            "stars": 51,
+            "stars": 52,
             "topics": [
               "geoai",
               "open-source",
@@ -175,8 +175,8 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T21:47:25Z",
-            "open_issues": 211,
+            "last_commit": "2026-10-03T13:18:19Z",
+            "open_issues": 213,
             "owner": "torchgeo",
             "repo": "torchgeo",
             "stars": 4193,
@@ -241,7 +241,7 @@
             "open_issues": 6,
             "owner": "opengeos",
             "repo": "geoai",
-            "stars": 3407,
+            "stars": 3408,
             "topics": [
               "ai",
               "data-science",
@@ -397,7 +397,7 @@
             "language": "Jupyter Notebook",
             "license": "GPL-3.0",
             "last_commit": "2026-09-24T09:55:13Z",
-            "open_issues": 18,
+            "open_issues": 21,
             "owner": "seisbench",
             "repo": "seisbench",
             "stars": 423,
@@ -707,7 +707,7 @@
                 "open_issues": 18,
                 "owner": "IBM",
                 "repo": "terramind",
-                "stars": 323,
+                "stars": 324,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:50:30.123Z"
@@ -990,6 +990,31 @@
         },
         {
           "node_type": "item",
+          "title": ":sunglasses::sparkling_heart: GeoAI with Python Book Code",
+          "description": "Executable notebooks for seven core GeoAI tasks and foundation model workflows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An open-access book on GeoAI",
+            "homepage": "https://book.opengeoai.org",
+            "id": 1100969729,
+            "language": "Jupyter Notebook",
+            "license": "CC0-1.0",
+            "last_commit": "2026-08-25T15:44:23Z",
+            "open_issues": 0,
+            "owner": "giswqs",
+            "repo": "GeoAI-Book",
+            "stars": 52,
+            "topics": [
+              "geoai",
+              "open-source",
+              "python"
+            ]
+          },
+          "first_seen": "2026-08-28T20:50:30.123Z"
+        },
+        {
+          "node_type": "item",
           "title": "Machine Learning for Development",
           "description": "Machine Learning for Development: A method to Learn and Identify Earth Features from Satellite Images,",
           "children": [],
@@ -1006,31 +1031,6 @@
             "repo": "ml4dev",
             "stars": 52,
             "topics": []
-          },
-          "first_seen": "2026-08-28T20:50:30.123Z"
-        },
-        {
-          "node_type": "item",
-          "title": ":sunglasses::sparkling_heart: GeoAI with Python Book Code",
-          "description": "Executable notebooks for seven core GeoAI tasks and foundation model workflows",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An open-access book on GeoAI",
-            "homepage": "https://book.opengeoai.org",
-            "id": 1100969729,
-            "language": "Jupyter Notebook",
-            "license": "CC0-1.0",
-            "last_commit": "2026-08-25T15:44:23Z",
-            "open_issues": 0,
-            "owner": "giswqs",
-            "repo": "GeoAI-Book",
-            "stars": 51,
-            "topics": [
-              "geoai",
-              "open-source",
-              "python"
-            ]
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
         },
@@ -1682,7 +1682,7 @@
             "open_issues": 22,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74510,
+            "stars": 74513,
             "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
@@ -1700,7 +1700,7 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-09-21T10:34:17Z",
-            "open_issues": 75,
+            "open_issues": 77,
             "owner": "meirwah",
             "repo": "awesome-workflow-engines",
             "stars": 7941,
@@ -1981,7 +1981,7 @@
                 "open_issues": 6,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39779,
+                "stars": 39780,
                 "topics": [
                   "agents",
                   "ai",
@@ -2014,11 +2014,11 @@
                 "id": 1198539,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T13:18:28Z",
+                "last_commit": "2026-10-03T09:50:31Z",
                 "open_issues": 18,
                 "owner": "lutzroeder",
                 "repo": "netron",
-                "stars": 33540,
+                "stars": 33543,
                 "topics": [
                   "ai",
                   "coreml",
@@ -2052,11 +2052,11 @@
                 "id": 136202695,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T04:09:23Z",
-                "open_issues": 2153,
+                "last_commit": "2026-10-03T13:28:43Z",
+                "open_issues": 2155,
                 "owner": "mlflow",
                 "repo": "mlflow",
-                "stars": 28239,
+                "stars": 28244,
                 "topics": [
                   "agentops",
                   "agents",
@@ -2152,7 +2152,7 @@
                 "open_issues": 224,
                 "owner": "bentoml",
                 "repo": "BentoML",
-                "stars": 8872,
+                "stars": 8873,
                 "topics": [
                   "ai-inference",
                   "deep-learning",
@@ -2430,7 +2430,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:24:36.730Z",
+    "last_updated": "2026-10-03T14:18:43.995Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Earth Science's Artificial Intelligence (AI) tutorials, notebooks, software, datasets, courses, books, video lectures and papers.  Contributions most welcome.",
