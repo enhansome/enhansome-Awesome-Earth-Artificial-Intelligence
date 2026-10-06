@@ -34,7 +34,7 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * [Fundamentals of ML and DL in Python](https://github.com/ageron/handson-ml) ⭐ 25,604 | 🐛 145 | 🌐 Jupyter Notebook | 📅 2026-05-19 - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
 
-* [Stanford CS 229 ML Cheatsheets](https://github.com/afshinea/stanford-cs-229-machine-learning) ⭐ 20,292 | 🐛 21 | 📅 2020-05-20
+* [Stanford CS 229 ML Cheatsheets](https://github.com/afshinea/stanford-cs-229-machine-learning) ⭐ 20,293 | 🐛 21 | 📅 2020-05-20
 
 * [Artificial Intelligence for Earth System Science (AI4ESS) Summer School](https://www2.cisl.ucar.edu/events/summer-school/ai4ess/2020/artificial-intelligence-earth-system-science-ai4ess-summer-school) [repo](https://github.com/NCAR/ai4ess-hackathon-2020) ⭐ 109 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2021-06-10 [readinglist](https://www2.cisl.ucar.edu/sites/default/files/AI4ESS%20Webpage%20PDF%20Recommended%20Readings.pdf)
 
@@ -84,15 +84,15 @@ Earth observation, geospatial, weather, and climate software only. Entries are s
 
 * :sunglasses: [TorchGeo](https://github.com/torchgeo/torchgeo) ⭐ 4,196 | 🐛 216 | 🌐 Python | 📅 2026-10-05 [docs](https://torchgeo.readthedocs.io/) - PyTorch domain library with 100+ geospatial datasets, spatial samplers, multispectral transforms, and pretrained backbones
 
-* [segment-geospatial (samgeo)](https://github.com/opengeos/segment-geospatial) ⭐ 4,158 | 🐛 8 | 🌐 Python | 📅 2026-10-05 [docs](https://samgeo.gishub.org/) - Segment Anything Model (SAM) and HQ-SAM for geospatial imagery segmentation
+* [segment-geospatial (samgeo)](https://github.com/opengeos/segment-geospatial) ⭐ 4,159 | 🐛 8 | 🌐 Python | 📅 2026-10-05 [docs](https://samgeo.gishub.org/) - Segment Anything Model (SAM) and HQ-SAM for geospatial imagery segmentation
 
-* :sunglasses: [GeoAI](https://github.com/opengeos/geoai) ⭐ 3,411 | 🐛 9 | 🌐 Python | 📅 2026-10-05 [docs](https://opengeoai.org/) - Unified Python framework for EO deep learning: segmentation, detection, change detection, and foundation model workflows
+* :sunglasses: [GeoAI](https://github.com/opengeos/geoai) ⭐ 3,411 | 🐛 10 | 🌐 Python | 📅 2026-10-05 [docs](https://opengeoai.org/) - Unified Python framework for EO deep learning: segmentation, detection, change detection, and foundation model workflows
 
 * [eo-learn](https://github.com/sentinel-hub/eo-learn) ⭐ 1,254 | 🐛 7 | 🌐 Python | 📅 2026-09-09 - Earth observation processing framework for machine learning in Python
 
 * :sunglasses: [TerraTorch](https://github.com/IBM/terratorch) ⭐ 867 | 🐛 51 | 🌐 Python | 📅 2026-09-30 [paper](https://arxiv.org/abs/2503.20563) - Fine-tuning and benchmarking toolkit for geospatial foundation models; integrates with GEO-Bench-2 and Hugging Face weights
 
-* [torch-harmonics](https://github.com/NVIDIA/torch-harmonics) ⭐ 710 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2026-10-06 - Differentiable signal processing on the sphere for geometric weather ML; BSD-3-Clause
+* [torch-harmonics](https://github.com/NVIDIA/torch-harmonics) ⭐ 710 | 🐛 25 | 🌐 Jupyter Notebook | 📅 2026-10-06 - Differentiable signal processing on the sphere for geometric weather ML; BSD-3-Clause
 
 * [WeatherBench 2](https://github.com/google-research/weatherbench2) ⭐ 639 | 🐛 97 | 🌐 Python | 📅 2026-10-06 [docs](https://weatherbench2.readthedocs.io/) - Open evaluation framework and leaderboard for data-driven global weather models
 
@@ -100,11 +100,11 @@ Earth observation, geospatial, weather, and climate software only. Entries are s
 
 * [SeisBench](https://github.com/seisbench/seisbench) ⭐ 423 | 🐛 18 | 🌐 Jupyter Notebook | 📅 2026-10-05 [docs](https://seisbench.readthedocs.io/) - Open toolbox for earthquake ML: phase picking, event detection, pretrained models, and benchmark datasets
 
-* [Makani](https://github.com/NVIDIA/makani) ⭐ 402 | 🐛 3 | 🌐 Python | 📅 2026-10-06 - Scalable training framework for ML weather models (FourCastNet 3); Apache 2.0
+* [Makani](https://github.com/NVIDIA/makani) ⭐ 402 | 🐛 2 | 🌐 Python | 📅 2026-10-06 - Scalable training framework for ML weather models (FourCastNet 3); Apache 2.0
 
 * [ClimateLearn](https://github.com/aditya-grover/climate-learn) ⭐ 355 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2024-03-16 [paper](https://arxiv.org/abs/2307.01909) - PyTorch library for weather forecasting and climate downscaling benchmarks (ERA5, CMIP6)
 
-* [Xarray-Beam](https://github.com/google/xarray-beam) ⭐ 170 | 🐛 23 | 🌐 Python | 📅 2026-10-05 - Python library for building Apache Beam pipelines with Xarray datasets
+* [Xarray-Beam](https://github.com/google/xarray-beam) ⭐ 170 | 🐛 22 | 🌐 Python | 📅 2026-10-06 - Python library for building Apache Beam pipelines with Xarray datasets
 
 * [EarthML](https://github.com/pyviz-topics/EarthML) ⚠️ Archived [website](http://earthml.holoviz.org/) - Tools for working with machine learning in earth science
 
@@ -145,7 +145,7 @@ Pretrained model weights and primary model repositories for Earth observation, w
 
 * [GraphCast / GenCast](https://github.com/google-deepmind/graphcast) ⭐ 7,696 | 🐛 81 | 🌐 Python | 📅 2026-09-04 [GraphCast paper](https://arxiv.org/abs/2212.12794) [GenCast paper](https://arxiv.org/abs/2312.15796) - GNN-based medium-range global weather forecasting and diffusion ensemble forecasting; Apache 2.0
 
-* [Aurora](https://github.com/microsoft/aurora) ⭐ 1,025 | 🐛 66 | 🌐 Python | 📅 2026-09-25 [docs](https://microsoft.github.io/aurora/) [paper](https://arxiv.org/abs/2405.13063) - 1.3B-parameter atmospheric foundation model for weather, air pollution, and ocean waves
+* [Aurora](https://github.com/microsoft/aurora) ⭐ 1,026 | 🐛 66 | 🌐 Python | 📅 2026-09-25 [docs](https://microsoft.github.io/aurora/) [paper](https://arxiv.org/abs/2405.13063) - 1.3B-parameter atmospheric foundation model for weather, air pollution, and ocean waves
 
 * [NeuralGCM](https://github.com/neuralgcm/neuralgcm) ⭐ 1,019 | 🐛 67 | 🌐 Python | 📅 2026-10-05 [dycore](https://github.com/neuralgcm/dinosaur) ⭐ 337 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-09-08 [paper](https://arxiv.org/abs/2311.07222) - Differentiable hybrid general circulation model combining physics-based dynamics with learned components; Apache 2.0 code, CC BY-SA 4.0 weights
 
@@ -401,7 +401,7 @@ Task-specific implementations and Earth-facing applications. Foundation model we
 
 ## RelatedAwesome
 
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,531 | 🐛 20 | 🌐 Python | 📅 2026-09-30 - ![Awesome](media/icon/awesome.png) A curated list of awesome Machine Learning frameworks, libraries and software
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,533 | 🐛 21 | 🌐 Python | 📅 2026-09-30 - ![Awesome](media/icon/awesome.png) A curated list of awesome Machine Learning frameworks, libraries and software
 * [Awesome Workflow Engines](https://github.com/meirwah/awesome-workflow-engines) ⭐ 7,943 | 🐛 77 | 📅 2026-09-21 - ![Awesome](media/icon/awesome.png) A curated list of awesome open source workflow engines
 * [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) ⭐ 6,625 | 🐛 32 | 📅 2026-09-25 - ![Awesome](media/icon/awesome.png) A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
 * [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) ⚠️ Archived - ![Awesome](media/icon/awesome.png) List of aerial and satellite imagery datasets with annotations for computer vision and deep learning
@@ -418,10 +418,10 @@ Task-specific implementations and Earth-facing applications. Foundation model we
 
 These are useful in Earth AI workflows but are not Earth-specific; we list them here rather than in [Tools](#tools).
 
-* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,781 | 🐛 6 | 🌐 Makefile | 📅 2026-09-16 – Explainable AutoML framework on PyTorch
-* [Netron](https://github.com/lutzroeder/netron) ⭐ 33,549 | 🐛 19 | 🌐 JavaScript | 📅 2026-10-05 – Neural network and ONNX/Keras/TFLite model visualizer
-* [MLflow](https://github.com/mlflow/mlflow) ⭐ 28,279 | 🐛 2,170 | 🌐 Python | 📅 2026-10-06 – Machine learning lifecycle platform
-* [Dopamine](https://github.com/google/dopamine) ⭐ 10,918 | 🐛 111 | 🌐 Jupyter Notebook | 📅 2026-03-24 – Research framework for reinforcement learning prototyping
+* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,783 | 🐛 6 | 🌐 Makefile | 📅 2026-09-16 – Explainable AutoML framework on PyTorch
+* [Netron](https://github.com/lutzroeder/netron) ⭐ 33,550 | 🐛 19 | 🌐 JavaScript | 📅 2026-10-05 – Neural network and ONNX/Keras/TFLite model visualizer
+* [MLflow](https://github.com/mlflow/mlflow) ⭐ 28,286 | 🐛 2,164 | 🌐 Python | 📅 2026-10-06 – Machine learning lifecycle platform
+* [Dopamine](https://github.com/google/dopamine) ⭐ 10,919 | 🐛 111 | 🌐 Jupyter Notebook | 📅 2026-03-24 – Research framework for reinforcement learning prototyping
 * [OneFlow](https://github.com/Oneflow-Inc/oneflow) ⭐ 9,436 | 🐛 645 | 🌐 C++ | 📅 2025-12-04 – Performance-centered open-source deep learning framework
 * [BentoML](https://github.com/bentoml/BentoML) ⭐ 8,880 | 🐛 226 | 🌐 Python | 📅 2026-10-05 – Open-source framework for high-performance ML model serving
 * [flashlight](https://github.com/facebookresearch/flashlight) ⭐ 5,476 | 🐛 126 | 🌐 C++ | 📅 2026-10-06 – C++ standalone library for machine learning
