@@ -19,7 +19,7 @@
             "open_issues": 145,
             "owner": "ageron",
             "repo": "handson-ml",
-            "stars": 25604,
+            "stars": 25606,
             "topics": [
               "deep-learning",
               "deprecated",
@@ -51,7 +51,7 @@
             "open_issues": 21,
             "owner": "afshinea",
             "repo": "stanford-cs-229-machine-learning",
-            "stars": 20309,
+            "stars": 20310,
             "topics": [
               "cheatsheet",
               "cs229",
@@ -175,11 +175,11 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-12T08:57:07Z",
-            "open_issues": 215,
+            "last_commit": "2026-10-13T12:33:24Z",
+            "open_issues": 214,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4199,
+            "stars": 4201,
             "topics": [
               "computer-vision",
               "datasets",
@@ -208,7 +208,7 @@
             "id": 629789089,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-05T22:28:27Z",
+            "last_commit": "2026-10-12T21:17:57Z",
             "open_issues": 8,
             "owner": "opengeos",
             "repo": "segment-geospatial",
@@ -237,11 +237,11 @@
             "id": 677526746,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-12T07:29:58Z",
+            "last_commit": "2026-10-12T21:16:18Z",
             "open_issues": 12,
             "owner": "opengeos",
             "repo": "geoai",
-            "stars": 3418,
+            "stars": 3422,
             "topics": [
               "ai",
               "data-science",
@@ -275,7 +275,7 @@
             "open_issues": 7,
             "owner": "sentinel-hub",
             "repo": "eo-learn",
-            "stars": 1254,
+            "stars": 1253,
             "topics": [
               "eo-data",
               "eo-research",
@@ -297,11 +297,11 @@
             "id": 801016442,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-11T21:47:04Z",
-            "open_issues": 50,
+            "last_commit": "2026-10-13T15:59:18Z",
+            "open_issues": 51,
             "owner": "torchgeo",
             "repo": "terratorch",
-            "stars": 871,
+            "stars": 872,
             "topics": [
               "ai4good",
               "ai4science",
@@ -328,7 +328,7 @@
             "id": 587447959,
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-12T17:48:32Z",
+            "last_commit": "2026-10-13T15:07:21Z",
             "open_issues": 21,
             "owner": "NVIDIA",
             "repo": "torch-harmonics",
@@ -379,7 +379,7 @@
             "open_issues": 7,
             "owner": "ecmwf-lab",
             "repo": "ai-models",
-            "stars": 596,
+            "stars": 597,
             "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
@@ -423,8 +423,8 @@
             "id": 696782184,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T13:44:53Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-13T12:03:42Z",
+            "open_issues": 3,
             "owner": "NVIDIA",
             "repo": "makani",
             "stars": 402,
@@ -544,7 +544,7 @@
             "open_issues": 0,
             "owner": "TerraLabAI",
             "repo": "QGIS_AI-Segmentation",
-            "stars": 41,
+            "stars": 42,
             "topics": [
               "ai",
               "building-footprint",
@@ -636,6 +636,42 @@
         },
         {
           "node_type": "item",
+          "title": "AI Edit by TerraLab",
+          "description": "QGIS plugin: edit aerial and satellite imagery from a text prompt (land cover, building extraction, object removal, flood simulation), georeferenced output",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "QGIS AI plugin for generative image editing: describe a change to your aerial imagery in plain language and get a georeferenced raster back on the same extent and CRS. Site plans, redevelopment previews, tree planting. Free tier, no card.",
+            "homepage": "https://terra-lab.ai/ai-edit",
+            "id": 1189494798,
+            "language": "Python",
+            "license": "GPL-2.0",
+            "last_commit": "2026-10-11T13:59:04Z",
+            "open_issues": 0,
+            "owner": "TerraLabAI",
+            "repo": "QGIS_AI-Edit",
+            "stars": 6,
+            "topics": [
+              "ai",
+              "generative-ai",
+              "geoai",
+              "geospatial",
+              "gis",
+              "image-editing",
+              "image-generation",
+              "python",
+              "qgis",
+              "qgis-plugin",
+              "raster",
+              "remote-sensing",
+              "site-plan",
+              "terralab"
+            ]
+          },
+          "first_seen": "2026-10-13T16:56:16.686Z"
+        },
+        {
+          "node_type": "item",
           "title": "GRIME AI",
           "description": "website - Ecohydrological workflow suite for ground-based time-lapse imagery, from acquisition through ML applications",
           "children": [],
@@ -646,7 +682,7 @@
             "id": 917968665,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T23:07:27Z",
+            "last_commit": "2026-10-13T00:08:12Z",
             "open_issues": 0,
             "owner": "GRIME-Lab",
             "repo": "GRIME-AI",
@@ -654,6 +690,42 @@
             "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
+        },
+        {
+          "node_type": "item",
+          "title": "AI Agent by TerraLab",
+          "description": "QGIS plugin: an AI agent that takes a plain-language task, finds the data, runs the analysis and builds the map, with one-click undo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "AI agent for QGIS: ask in plain English and it finds the data, runs the analysis and builds the map in your open project. One click undoes anything it changed. QGIS plugin by TerraLab, free tier, no card.",
+            "homepage": "https://terra-lab.ai/ai-agent",
+            "id": 1357664663,
+            "language": "Python",
+            "license": "GPL-2.0",
+            "last_commit": "2026-10-11T15:05:42Z",
+            "open_issues": 0,
+            "owner": "TerraLabAI",
+            "repo": "QGIS_AI-Agent",
+            "stars": 4,
+            "topics": [
+              "agent",
+              "ai",
+              "ai-agent",
+              "automation",
+              "geoai",
+              "geospatial",
+              "gis",
+              "llm",
+              "natural-language",
+              "pyqgis",
+              "python",
+              "qgis",
+              "qgis-plugin",
+              "terralab"
+            ]
+          },
+          "first_seen": "2026-10-13T16:56:16.686Z"
         }
       ],
       "title": "Tools"
@@ -707,7 +779,7 @@
                 "open_issues": 10,
                 "owner": "NASA-IMPACT",
                 "repo": "Prithvi-EO-2.0",
-                "stars": 324,
+                "stars": 325,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:50:30.123Z"
@@ -724,11 +796,11 @@
                 "id": 969483295,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-12T03:16:45Z",
-                "open_issues": 19,
+                "last_commit": "2026-10-13T12:17:35Z",
+                "open_issues": 18,
                 "owner": "IBM",
                 "repo": "terramind",
-                "stars": 324,
+                "stars": 325,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:50:30.123Z"
@@ -805,7 +877,7 @@
                 "open_issues": 82,
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7705,
+                "stars": 7706,
                 "topics": [
                   "weather",
                   "weather-forecast"
@@ -829,7 +901,7 @@
                 "open_issues": 66,
                 "owner": "microsoft",
                 "repo": "aurora",
-                "stars": 1027,
+                "stars": 1028,
                 "topics": [
                   "atmospheric-chemistry",
                   "aurora-model",
@@ -911,7 +983,7 @@
             "open_issues": 12,
             "owner": "kailashahirwar",
             "repo": "cheatsheets-ai",
-            "stars": 15436,
+            "stars": 15437,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -1170,7 +1242,7 @@
             "open_issues": 0,
             "owner": "chrieke",
             "repo": "awesome-satellite-imagery-datasets",
-            "stars": 3921,
+            "stars": 3920,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1678,11 +1750,11 @@
             "id": 21872392,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T23:52:52Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-13T00:31:03Z",
+            "open_issues": 25,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74575,
+            "stars": 74578,
             "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
@@ -1748,7 +1820,7 @@
             "open_issues": 0,
             "owner": "chrieke",
             "repo": "awesome-satellite-imagery-datasets",
-            "stars": 3921,
+            "stars": 3920,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1778,7 +1850,7 @@
             "open_issues": 14,
             "owner": "softwareunderground",
             "repo": "awesome-open-geoscience",
-            "stars": 1852,
+            "stars": 1855,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1977,11 +2049,11 @@
                 "id": 143328315,
                 "language": "Makefile",
                 "license": "MIT",
-                "last_commit": "2026-09-16T21:37:33Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-13T13:09:00Z",
+                "open_issues": 8,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39789,
+                "stars": 39791,
                 "topics": [
                   "agents",
                   "ai",
@@ -2018,7 +2090,7 @@
                 "open_issues": 18,
                 "owner": "lutzroeder",
                 "repo": "netron",
-                "stars": 33564,
+                "stars": 33568,
                 "topics": [
                   "ai",
                   "coreml",
@@ -2052,11 +2124,11 @@
                 "id": 136202695,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-12T18:43:00Z",
-                "open_issues": 2196,
+                "last_commit": "2026-10-13T15:53:04Z",
+                "open_issues": 2195,
                 "owner": "mlflow",
                 "repo": "mlflow",
-                "stars": 28351,
+                "stars": 28371,
                 "topics": [
                   "agentops",
                   "agents",
@@ -2149,10 +2221,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-05T17:17:22Z",
-                "open_issues": 228,
+                "open_issues": 229,
                 "owner": "bentoml",
                 "repo": "BentoML",
-                "stars": 8898,
+                "stars": 8899,
                 "topics": [
                   "ai-inference",
                   "deep-learning",
@@ -2189,7 +2261,7 @@
                 "open_issues": 126,
                 "owner": "flashlight",
                 "repo": "flashlight",
-                "stars": 5476,
+                "stars": 5477,
                 "topics": [
                   "autograd",
                   "cpp",
@@ -2214,7 +2286,7 @@
                 "id": 93381875,
                 "language": "Scala",
                 "license": "MIT",
-                "last_commit": "2026-10-12T16:47:07Z",
+                "last_commit": "2026-10-13T09:54:48Z",
                 "open_issues": 144,
                 "owner": "microsoft",
                 "repo": "SynapseML",
@@ -2294,7 +2366,7 @@
                 "id": 77383688,
                 "language": "MDX",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T15:33:39Z",
+                "last_commit": "2026-10-13T08:10:39Z",
                 "open_issues": 125,
                 "owner": "polyaxon",
                 "repo": "polyaxon",
@@ -2430,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T19:01:39.103Z",
+    "last_updated": "2026-10-13T16:56:16.686Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Earth Science's Artificial Intelligence (AI) tutorials, notebooks, software, datasets, courses, books, video lectures and papers.  Contributions most welcome.",
@@ -2438,8 +2510,8 @@
       "id": 287369884,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-08-29T06:06:32Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-13T01:46:49Z",
+      "open_issues": 0,
       "owner": "ESIPFed",
       "repo": "Awesome-Earth-Artificial-Intelligence",
       "stars": 251,
@@ -2461,7 +2533,7 @@
         "volcano"
       ]
     },
-    "original_repository_sha": "c797e6ac33bd76978dfef23aba5764a71540d2ae",
+    "original_repository_sha": "c8839b0c19d46097ce3fef22c634b284e3959972",
     "enhanced_repository": "enhansome/enhansome-Awesome-Earth-Artificial-Intelligence",
     "enhanced_repository_description": null,
     "title": "Awesome-Earth-Artificial-Intelligence with stars"
