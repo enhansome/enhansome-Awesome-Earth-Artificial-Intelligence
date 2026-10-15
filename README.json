@@ -19,7 +19,7 @@
             "open_issues": 145,
             "owner": "ageron",
             "repo": "handson-ml",
-            "stars": 25606,
+            "stars": 25603,
             "topics": [
               "deep-learning",
               "deprecated",
@@ -51,7 +51,7 @@
             "open_issues": 21,
             "owner": "afshinea",
             "repo": "stanford-cs-229-machine-learning",
-            "stars": 20311,
+            "stars": 20312,
             "topics": [
               "cheatsheet",
               "cs229",
@@ -176,10 +176,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-14T13:22:08Z",
-            "open_issues": 214,
+            "open_issues": 215,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4202,
+            "stars": 4203,
             "topics": [
               "computer-vision",
               "datasets",
@@ -212,7 +212,7 @@
             "open_issues": 8,
             "owner": "opengeos",
             "repo": "segment-geospatial",
-            "stars": 4163,
+            "stars": 4164,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -241,7 +241,7 @@
             "open_issues": 12,
             "owner": "opengeos",
             "repo": "geoai",
-            "stars": 3424,
+            "stars": 3425,
             "topics": [
               "ai",
               "data-science",
@@ -297,7 +297,7 @@
             "id": 801016442,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T15:59:18Z",
+            "last_commit": "2026-10-15T05:24:14Z",
             "open_issues": 52,
             "owner": "torchgeo",
             "repo": "terratorch",
@@ -328,8 +328,8 @@
             "id": 587447959,
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-14T06:38:18Z",
-            "open_issues": 21,
+            "last_commit": "2026-10-15T06:46:50Z",
+            "open_issues": 24,
             "owner": "NVIDIA",
             "repo": "torch-harmonics",
             "stars": 716,
@@ -423,7 +423,7 @@
             "id": 696782184,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T13:15:45Z",
+            "last_commit": "2026-10-15T10:51:50Z",
             "open_issues": 3,
             "owner": "NVIDIA",
             "repo": "makani",
@@ -583,7 +583,7 @@
             "open_issues": 13,
             "owner": "The-AI-Alliance",
             "repo": "GEO-Bench-2",
-            "stars": 31,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
@@ -707,7 +707,7 @@
             "open_issues": 0,
             "owner": "TerraLabAI",
             "repo": "QGIS_AI-Agent",
-            "stars": 4,
+            "stars": 5,
             "topics": [
               "agent",
               "ai",
@@ -779,7 +779,7 @@
                 "open_issues": 10,
                 "owner": "NASA-IMPACT",
                 "repo": "Prithvi-EO-2.0",
-                "stars": 325,
+                "stars": 327,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:50:30.123Z"
@@ -800,7 +800,7 @@
                 "open_issues": 18,
                 "owner": "IBM",
                 "repo": "terramind",
-                "stars": 325,
+                "stars": 324,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:50:30.123Z"
@@ -874,10 +874,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-04T09:49:34Z",
-                "open_issues": 82,
+                "open_issues": 83,
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7708,
+                "stars": 7710,
                 "topics": [
                   "weather",
                   "weather-forecast"
@@ -897,8 +897,8 @@
                 "id": 828987595,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-14T09:27:08Z",
-                "open_issues": 64,
+                "last_commit": "2026-10-14T18:48:31Z",
+                "open_issues": 65,
                 "owner": "microsoft",
                 "repo": "aurora",
                 "stars": 1028,
@@ -926,11 +926,11 @@
                 "id": 753181435,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T21:20:08Z",
-                "open_issues": 68,
+                "last_commit": "2026-10-15T00:51:18Z",
+                "open_issues": 69,
                 "owner": "neuralgcm",
                 "repo": "neuralgcm",
-                "stars": 1021,
+                "stars": 1023,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:50:30.123Z"
@@ -1362,7 +1362,7 @@
             "open_issues": 13,
             "owner": "The-AI-Alliance",
             "repo": "GEO-Bench-2",
-            "stars": 31,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
@@ -1754,7 +1754,7 @@
             "open_issues": 25,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74582,
+            "stars": 74587,
             "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
@@ -2049,11 +2049,11 @@
                 "id": 143328315,
                 "language": "Makefile",
                 "license": "MIT",
-                "last_commit": "2026-10-13T13:09:00Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-14T16:44:03Z",
+                "open_issues": 7,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39794,
+                "stars": 39795,
                 "topics": [
                   "agents",
                   "ai",
@@ -2086,11 +2086,11 @@
                 "id": 1198539,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-13T17:14:11Z",
+                "last_commit": "2026-10-14T23:41:27Z",
                 "open_issues": 18,
                 "owner": "lutzroeder",
                 "repo": "netron",
-                "stars": 33574,
+                "stars": 33573,
                 "topics": [
                   "ai",
                   "coreml",
@@ -2124,11 +2124,11 @@
                 "id": 136202695,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T14:29:08Z",
+                "last_commit": "2026-10-15T14:08:43Z",
                 "open_issues": 2191,
                 "owner": "mlflow",
                 "repo": "mlflow",
-                "stars": 28380,
+                "stars": 28396,
                 "topics": [
                   "agentops",
                   "agents",
@@ -2168,7 +2168,7 @@
                 "open_issues": 111,
                 "owner": "google",
                 "repo": "dopamine",
-                "stars": 10924,
+                "stars": 10926,
                 "topics": [
                   "ai",
                   "google",
@@ -2195,7 +2195,7 @@
                 "open_issues": 645,
                 "owner": "Oneflow-Inc",
                 "repo": "oneflow",
-                "stars": 9438,
+                "stars": 9437,
                 "topics": [
                   "cuda",
                   "deep-learning",
@@ -2221,10 +2221,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-05T17:17:22Z",
-                "open_issues": 232,
+                "open_issues": 233,
                 "owner": "bentoml",
                 "repo": "BentoML",
-                "stars": 8899,
+                "stars": 8904,
                 "topics": [
                   "ai-inference",
                   "deep-learning",
@@ -2286,8 +2286,8 @@
                 "id": 93381875,
                 "language": "Scala",
                 "license": "MIT",
-                "last_commit": "2026-10-14T14:00:39Z",
-                "open_issues": 145,
+                "last_commit": "2026-10-15T07:09:39Z",
+                "open_issues": 144,
                 "owner": "microsoft",
                 "repo": "SynapseML",
                 "stars": 5245,
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T14:29:53.194Z",
+    "last_updated": "2026-10-15T14:09:29.530Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Earth Science's Artificial Intelligence (AI) tutorials, notebooks, software, datasets, courses, books, video lectures and papers.  Contributions most welcome.",
