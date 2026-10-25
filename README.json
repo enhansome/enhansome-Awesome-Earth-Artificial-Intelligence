@@ -19,7 +19,7 @@
             "open_issues": 145,
             "owner": "ageron",
             "repo": "handson-ml",
-            "stars": 25608,
+            "stars": 25610,
             "topics": [
               "deep-learning",
               "deprecated",
@@ -51,7 +51,7 @@
             "open_issues": 21,
             "owner": "afshinea",
             "repo": "stanford-cs-229-machine-learning",
-            "stars": 20336,
+            "stars": 20338,
             "topics": [
               "cheatsheet",
               "cs229",
@@ -175,11 +175,11 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-23T22:09:29Z",
-            "open_issues": 229,
+            "last_commit": "2026-10-24T14:17:57Z",
+            "open_issues": 225,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4211,
+            "stars": 4213,
             "topics": [
               "computer-vision",
               "datasets",
@@ -212,7 +212,7 @@
             "open_issues": 8,
             "owner": "opengeos",
             "repo": "segment-geospatial",
-            "stars": 4175,
+            "stars": 4176,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -241,7 +241,7 @@
             "open_issues": 12,
             "owner": "opengeos",
             "repo": "geoai",
-            "stars": 3438,
+            "stars": 3439,
             "topics": [
               "ai",
               "data-science",
@@ -301,7 +301,7 @@
             "open_issues": 53,
             "owner": "torchgeo",
             "repo": "terratorch",
-            "stars": 877,
+            "stars": 878,
             "topics": [
               "ai4good",
               "ai4science",
@@ -358,7 +358,7 @@
             "open_issues": 97,
             "owner": "google-research",
             "repo": "weatherbench2",
-            "stars": 645,
+            "stars": 646,
             "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
@@ -400,7 +400,7 @@
             "open_issues": 18,
             "owner": "seisbench",
             "repo": "seisbench",
-            "stars": 427,
+            "stars": 428,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -474,7 +474,7 @@
             "open_issues": 23,
             "owner": "google",
             "repo": "xarray-beam",
-            "stars": 170,
+            "stars": 171,
             "topics": [
               "beam",
               "dask",
@@ -600,8 +600,8 @@
             "id": 619011541,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-19T05:11:42Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-25T07:58:05Z",
+            "open_issues": 14,
             "owner": "ESIPFed",
             "repo": "pygeoweaver",
             "stars": 18,
@@ -779,7 +779,7 @@
                 "open_issues": 10,
                 "owner": "NASA-IMPACT",
                 "repo": "Prithvi-EO-2.0",
-                "stars": 329,
+                "stars": 330,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:50:30.123Z"
@@ -877,7 +877,7 @@
                 "open_issues": 82,
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7718,
+                "stars": 7720,
                 "topics": [
                   "weather",
                   "weather-forecast"
@@ -983,7 +983,7 @@
             "open_issues": 12,
             "owner": "kailashahirwar",
             "repo": "cheatsheets-ai",
-            "stars": 15445,
+            "stars": 15447,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -1272,7 +1272,7 @@
             "open_issues": 97,
             "owner": "google-research",
             "repo": "weatherbench2",
-            "stars": 645,
+            "stars": 646,
             "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
@@ -1751,10 +1751,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-22T18:52:55Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74648,
+            "stars": 74657,
             "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
@@ -1775,7 +1775,7 @@
             "open_issues": 75,
             "owner": "meirwah",
             "repo": "awesome-workflow-engines",
-            "stars": 7952,
+            "stars": 7953,
             "topics": []
           },
           "first_seen": "2026-08-28T20:50:30.123Z"
@@ -2053,7 +2053,7 @@
                 "open_issues": 8,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39811,
+                "stars": 39814,
                 "topics": [
                   "agents",
                   "ai",
@@ -2086,11 +2086,11 @@
                 "id": 1198539,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-24T13:18:27Z",
+                "last_commit": "2026-10-24T13:40:26Z",
                 "open_issues": 18,
                 "owner": "lutzroeder",
                 "repo": "netron",
-                "stars": 33603,
+                "stars": 33608,
                 "topics": [
                   "ai",
                   "coreml",
@@ -2124,11 +2124,11 @@
                 "id": 136202695,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-24T13:13:41Z",
-                "open_issues": 2220,
+                "last_commit": "2026-10-25T11:37:17Z",
+                "open_issues": 2227,
                 "owner": "mlflow",
                 "repo": "mlflow",
-                "stars": 28514,
+                "stars": 28526,
                 "topics": [
                   "agentops",
                   "agents",
@@ -2168,7 +2168,7 @@
                 "open_issues": 112,
                 "owner": "google",
                 "repo": "dopamine",
-                "stars": 10928,
+                "stars": 10929,
                 "topics": [
                   "ai",
                   "google",
@@ -2195,7 +2195,7 @@
                 "open_issues": 647,
                 "owner": "Oneflow-Inc",
                 "repo": "oneflow",
-                "stars": 9436,
+                "stars": 9438,
                 "topics": [
                   "cuda",
                   "deep-learning",
@@ -2221,10 +2221,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-23T19:51:33Z",
-                "open_issues": 242,
+                "open_issues": 243,
                 "owner": "bentoml",
                 "repo": "BentoML",
-                "stars": 8918,
+                "stars": 8920,
                 "topics": [
                   "ai-inference",
                   "deep-learning",
@@ -2261,7 +2261,7 @@
                 "open_issues": 126,
                 "owner": "flashlight",
                 "repo": "flashlight",
-                "stars": 5479,
+                "stars": 5480,
                 "topics": [
                   "autograd",
                   "cpp",
@@ -2290,7 +2290,7 @@
                 "open_issues": 144,
                 "owner": "microsoft",
                 "repo": "SynapseML",
-                "stars": 5248,
+                "stars": 5249,
                 "topics": [
                   "ai",
                   "apache-spark",
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T13:19:07.071Z",
+    "last_updated": "2026-10-25T13:42:02.104Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Earth Science's Artificial Intelligence (AI) tutorials, notebooks, software, datasets, courses, books, video lectures and papers.  Contributions most welcome.",
